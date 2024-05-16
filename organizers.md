@@ -9,6 +9,7 @@ permalink: /organizers/
 The NeuroAI Workshop is organized by a team of dedicated professionals from the neuroscience and AI communities. Our organizers include:
 
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(25% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. Bob Blue" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -25,7 +26,6 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     </div>
   </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(25% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. Alice Green" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -34,7 +34,6 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     </div>
   </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(25% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. Alice Green" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -43,7 +42,6 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     </div>
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(25% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. Alice Green" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -52,7 +50,6 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     </div>
   </div>
 
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(25% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. Alice Green" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -62,7 +59,6 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   </div>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(25% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. David Yellow" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
