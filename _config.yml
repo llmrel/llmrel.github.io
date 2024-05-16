@@ -44,6 +44,6 @@
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
 title: "NeuroAI Workshop"
-description: "Website for the NeuroAI Workshop"
+description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing artificial intelligence"
 url: "NeuroAI-Workshop.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
