@@ -10,15 +10,15 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
 
 <div class="organizers-container">
   <div class="organizer">
-    <img src="{{ site.baseurl }}/images/organizers/alice-green.jpg" alt="Dr. Alice Green" class="organizer-photo" style="width: 100px; height: 100px;">
+    <img src="{{ site.baseurl }}/images/organizers/alice-green.jpg" alt="Dr. Alice Green" class="organizer-photo" style="width: 10px; height: 10px;">
     <div class="organizer-info">
-      <strong>Dr. Alice Green</strong><br>
+      <strong>Dr. Ali Green</strong><br>
       Head of Neuroscience Department
     </div>
   </div>
 
   <div class="organizer">
-    <img src="{{ site.baseurl }}/images/organizers/bob-blue.jpg" alt="Dr. Bob Blue" class="organizer-photo" style="width: 100px; height: 100px;">
+    <img src="{{ site.baseurl }}/images/organizers/bob-blue.jpg" alt="Dr. Bob Blue" class="organizer-photo" style="width: 10px; height: 10px;">
     <div class="organizer-info">
       <strong>Dr. Bob Blue</strong><br>
       Director of AI Research Lab
@@ -26,7 +26,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   </div>
 
   <div class="organizer">
-    <img src="{{ site.baseurl }}/images/organizers/clara-red.jpg" alt="Dr. Clara Red" class="organizer-photo" style="width: 100px; height: 100px;">
+    <img src="{{ site.baseurl }}/images/organizers/clara-red.jpg" alt="Dr. Clara Red" class="organizer-photo" style="width: 10px; height: 10px;">
     <div class="organizer-info">
       <strong>Dr. Clara Red</strong><br>
       Senior Neuroscientist
@@ -34,7 +34,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   </div>
 
   <div class="organizer">
-    <img src="{{ site.baseurl }}/images/organizers/david-yellow.jpg" alt="Dr. David Yellow" class="organizer-photo" style="width: 100px; height: 100px;">
+    <img src="{{ site.baseurl }}/images/organizers/david-yellow.jpg" alt="Dr. David Yellow" class="organizer-photo" style="width: 10px; height: 10px;">
     <div class="organizer-info">
       <strong>Dr. David Yellow</strong><br>
       AI Specialist
