@@ -19,6 +19,10 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     </div>
   </div>
 
+  <div class="" style="max-width: 15%;max-height: 20%;display: inline-block;">
+        <img src="{{ site.baseurl }}/images/organizers/alice-green.jpg">
+    </div>
+
     
 
   <div class="organizer">
