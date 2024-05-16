@@ -10,12 +10,16 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
 
 <div class="organizers-container">
   <div class="organizer">
-    <img src="{{ site.baseurl }}/images/organizers/alice-green.jpg" alt="Dr. Alice Green" class="organizer-photo" style="width: 10px; height: 10px;">
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="{{ site.baseurl }}/images/organizers/alice-green.jpg" alt="Dr. Alice Green" class="organizer-photo">
+    </div>
     <div class="organizer-info">
-      <strong>Dr. Ali Green</strong><br>
+      <strong>Dr. Alice Green</strong><br>
       Head of Neuroscience Department
     </div>
   </div>
+
+    
 
   <div class="organizer">
     <img src="{{ site.baseurl }}/images/organizers/bob-blue.jpg" alt="Dr. Bob Blue" class="organizer-photo" style="width: 10px; height: 10px;">
