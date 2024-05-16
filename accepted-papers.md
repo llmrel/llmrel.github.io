@@ -1,6 +1,10 @@
 ---
 layout: page
-title: Accepted Papers
+title: "Accepted Papers"
 permalink: /accepted-papers/
 ---
-Content for the Accepted Papers page.
+
+
+# Accepted Papers
+
+#We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors!
