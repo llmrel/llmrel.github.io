@@ -5,6 +5,6 @@ permalink: /accepted-papers/
 ---
 
 
-# Accepted Papers
+<!-- # Accepted Papers -->
 
-#We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors!
+<!-- #We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors! -->

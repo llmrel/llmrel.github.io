@@ -4,7 +4,7 @@ title: "Schedules"
 permalink: /schedules/
 ---
 
-# Schedules
+<!-- # Schedules -->
 
 Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates on session timings and speaker slots.
 

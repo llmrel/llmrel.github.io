@@ -4,7 +4,6 @@ title: "Organizers"
 permalink: /organizers/
 ---
 
-# Organizers
 
 The NeuroAI Workshop is organized by a team of dedicated professionals from the neuroscience and AI communities. Our organizers include:
 

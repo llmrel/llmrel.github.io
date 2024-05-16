@@ -4,7 +4,6 @@ title: "Speakers"
 permalink: /speakers/
 ---
 
-# Speakers
 
 Meet the speakers who will be presenting at the NeuroAI Workshop. We have a diverse lineup of experts from the fields of neuroscience and artificial intelligence.
 
