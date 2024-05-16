@@ -10,7 +10,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
 <div class="organizer">
   <img src="{{ site.baseurl }}/images/organizers/Moein Khajehnejad.jpg" alt="Dr. Alice Green" class="organizer-photo">
   <div class="organizer-info">
-    <strong>Dr. Alice Green</strong><br>
+    <strong>Dr. Ali Green</strong><br>
     Head of Neuroscience Department
   </div>
 </div>
