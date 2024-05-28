@@ -36,7 +36,7 @@ The NeuroAI Workshop is supported by a distinguished committee of experts from t
   </tr>
 </table>
 
-## Reviewers
+<!-- ## Reviewers
 
 <table style="width: 100%; border-spacing: 20px;">
   <tr>
@@ -48,4 +48,4 @@ The NeuroAI Workshop is supported by a distinguished committee of experts from t
     <td style="padding: 10px;"><strong>Mostajo Radji</strong></td>
     <td style="padding: 10px;"><strong>Peng Zhou</strong></td>
   </tr>
-</table>
+</table> -->
