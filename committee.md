@@ -12,7 +12,7 @@ The NeuroAI Workshop is supported by a distinguished committee of experts from t
 
 <table>
   <tr>
-    <td> **Moein Khajehnejad**<br><em>Monash University</em></td>
+    <td> Moein Khajehnejad<br><em>Monash University</em></td>
     <td>Forough Habibollahi<br><em>Cortical Labs</em></td>
     <td>Adeel Razi<br><em>Monash University</em></td>
   </tr>
