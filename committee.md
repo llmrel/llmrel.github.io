@@ -23,13 +23,13 @@ The NeuroAI Workshop is supported by a distinguished committee of experts from t
   </tr>
 </table>
 
-## Workflow Chair
+<!-- ## Workflow Chair
 
 <table>
   <tr>
     <td>aa <br><em> bb </em></td>
   </tr>
-</table>
+</table> -->
 
 ## Area Chairs
 
