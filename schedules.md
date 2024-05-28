@@ -8,7 +8,6 @@ permalink: /schedules/
 
 Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates on session timings and speaker slots.
 
-## Schedule
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
