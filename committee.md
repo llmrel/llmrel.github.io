@@ -8,4 +8,4 @@ permalink: /committee/
 
 The NeuroAI Workshop is supported by a distinguished committee of experts from the fields of neuroscience and AI. Our committee members are:
 
-- **A** - Neuroscience
+- **Moein Khajehnejad** 
