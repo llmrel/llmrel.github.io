@@ -10,53 +10,42 @@ The NeuroAI Workshop is supported by a distinguished committee of experts from t
 
 ## Program Chairs
 
-<table>
+<table style="width: 100%; border-spacing: 20px;">
   <tr>
-    <td> Moein Khajehnejad<br><em>Monash University</em></td>
-    <td>Forough Habibollahi<br><em>Cortical Labs</em></td>
-    <td>Adeel Razi<br><em>Monash University</em></td>
+    <td style="padding: 10px;"><strong>Moein Khajehnejad</strong><br><em>Monash University</em></td>
+    <td style="padding: 10px;"><strong>Forough Habibollahi</strong><br><em>Cortical Labs</em></td>
+    <td style="padding: 10px;"><strong>Adeel Razi</strong><br><em>Monash University</em></td>
   </tr>
   <tr>
-    <td>Noor Sajid<br><em>Harvard University</em></td>
-    <td>Jason Eshraghian<br><em>University of California, Santa Cruz</em></td>
-    <td>Yoshua Bengio<br><em>MILA </em></td>
+    <td style="padding: 10px;"><strong>Noor Sajid</strong><br><em>Harvard University</em></td>
+    <td style="padding: 10px;"><strong>Jason Eshraghian</strong><br><em>University of California, Santa Cruz</em></td>
+    <td style="padding: 10px;"><strong>Yoshua Bengio</strong><br><em>MILA</em></td>
   </tr>
 </table>
 
-<!-- ## Workflow Chair
-
-<table>
-  <tr>
-    <td>aa <br><em> bb </em></td>
-  </tr>
-</table> -->
-
 ## Area Chairs
 
-<table>
+<table style="width: 100%; border-spacing: 20px;">
   <tr>
-    <td>Amir Dezfouli<br><em>BIMLOGIQ</em></td>
-    <td>Gerald Pao<br><em>Okinawa Institute of Science and Technology</em></td>
+    <td style="padding: 10px;"><strong>Amir Dezfouli</strong><br><em>BIMLOGIQ</em></td>
+    <td style="padding: 10px;"><strong>Gerald Pao</strong><br><em>Okinawa Institute of Science and Technology</em></td>
   </tr>
-    
   <tr>
-  	<td>Ahmad Khajehnejad<br><em>The University of British Columbia</em></td>
-    <td>Brett J. Kagan<br><em>Cortical Labs</em></td>
+    <td style="padding: 10px;"><strong>Ahmad Khajehnejad</strong><br><em>The University of British Columbia</em></td>
+    <td style="padding: 10px;"><strong>Brett J. Kagan</strong><br><em>Cortical Labs</em></td>
   </tr>
 </table>
 
 ## Reviewers
 
-<table>
+<table style="width: 100%; border-spacing: 20px;">
   <tr>
-    <td>Leilani Gilpin</td>
-    <td>Hugo Ladret</td>
-    <td>Vaggos Chatziafratis</td>
+    <td style="padding: 10px;"><strong>Leilani Gilpin</strong></td>
+    <td style="padding: 10px;"><strong>Hugo Ladret</strong></td>
+    <td style="padding: 10px;"><strong>Vaggos Chatziafratis</strong></td>
   </tr>
   <tr>
-    <td>Mostajo Radji</td>
-    <td>Peng Zhou</td>
+    <td style="padding: 10px;"><strong>Mostajo Radji</strong></td>
+    <td style="padding: 10px;"><strong>Peng Zhou</strong></td>
   </tr>
 </table>
-
-
