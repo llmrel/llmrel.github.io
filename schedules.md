@@ -11,8 +11,8 @@ Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates o
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="background-color: #10be94; border: 1px solid black; padding: 8px;">Morning Schedule</th>
-    <th style="background-color: #10be94; border: 1px solid black; padding: 8px;">Event</th>
+    <th style="background-color: #77d86a; border: 1px solid black; padding: 8px;">Morning Schedule</th>
+    <th style="background-color: #77d86a; border: 1px solid black; padding: 8px;">Event</th>
     <th style="background-color: #ed981e; border: 1px solid black; padding: 8px;">Afternoon Schedule</th>
     <th style="background-color: #ed981e; border: 1px solid black; padding: 8px;">Event</th>
   </tr>
