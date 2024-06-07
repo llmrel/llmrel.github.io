@@ -8,7 +8,7 @@ permalink: /overview/
 
 Welcome to the NeuroAI Workshop! This workshop aims to bring together researchers and practitioners from the fields of neuroscience and artificial intelligence.
 
-We are in an era of unprecedented advancement in artificial intelligence, driven by the remarkable progress in artificial neural networks (ANNs) over the past decade. The widespread adoption of these techniques across diverse domains, from language generation to machine vision, highlights the rapid pace of innovation and their transformative impact. This momentum paves the way for exploring the intersections of artificial and natural intelligence – NeuroAI – which promises to unlock novel insights into biological neuronal function and drive the development of computationally less intensive artificial systems trained using small-data regimes.
+We are in an era of unprecedented advancement in artificial intelligence, driven by the remarkable progress in artificial neural networks (ANNs) over the past decade. The widespread adoption of these techniques across diverse domains, from language generation (e.g., GPT4o, Claude, Pi, etc) to machine vision (e.g., Sora, DALL-E, etc), highlights the rapid pace of innovation and their transformative impact. This momentum paves the way for exploring the intersections of artificial and natural intelligence – NeuroAI – which promises to unlock novel insights into biological neuronal function and drive the development of computationally less intensive artificial systems trained using small-data regimes.
 
 This burgeoning NeuroAI field is anchored by four key research areas:
 
