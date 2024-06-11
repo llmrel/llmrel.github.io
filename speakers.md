@@ -80,18 +80,16 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 </div>
 
 
-permalink: /Talk Titles/
+## Talk Titles
 
 - **Karl Friston:** “The three faces of AI.”
 
 - **Eva Dyer:** Talk title TBA.
 
-- **Rafal Bogacz:** “Predictive coding: effective learning with local plastic-
-ity.”
+- **Rafal Bogacz:** “Predictive coding: effective learning with local plasticity.”
 
 - **Kanaka Rajan:** “Beyond benchmarking: deeper behavioral and representational analysis to understand model performance in open-ended foraging tasks.”
 
 - **Doina Precup:** Talk title TBA.
 
-- **Ila Fiete:** “Neuro-inspired algorithms and their role in memory composi-
-tion and retrieval.”
+- **Ila Fiete:** “Neuro-inspired algorithms and their role in memory composition and retrieval.”
