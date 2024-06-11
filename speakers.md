@@ -82,6 +82,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 ## Talk Titles
 
+
 - **Karl Friston:** “The three faces of AI.”
 
 - **Eva Dyer:** Talk title TBA.
