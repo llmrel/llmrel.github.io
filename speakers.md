@@ -93,4 +93,4 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Doina Precup:** Talk title TBA.
 
-- **Ila Fiete:** “Neuro-inspired algorithms and their role in memory composition and retrieval.”
+- **Ila Fiete:** Talk title TBA.
