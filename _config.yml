@@ -44,8 +44,8 @@
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
 title: |
-  NeurIPS 2024 Workshop 
-  
+  <span style="color: blue;">NeurIPS 2024 </span> 
+
   NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop
 description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
 url: "NeuroAI-Workshop.github.io"
