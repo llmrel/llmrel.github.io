@@ -44,7 +44,7 @@
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
 # Add this at the end of the file
-title_text: "<span style='color: blue;'>NeurIPS 2024</span>"
+NeurIPS 2024
 
 title: "NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop"
 description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
