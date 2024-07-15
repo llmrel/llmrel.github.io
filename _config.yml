@@ -43,7 +43,7 @@
 # plugins: ['jekyll-paginate']
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
-title: "NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop"
+title: "NeurIPS 2024 Workshop \\ NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop"
 description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
 url: "NeuroAI-Workshop.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
