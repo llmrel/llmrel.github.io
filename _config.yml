@@ -43,9 +43,6 @@
 # plugins: ['jekyll-paginate']
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
-# Add this at the end of the file
-NeurIPS 2024
-
 title: "NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop"
 description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
 url: "NeuroAI-Workshop.github.io"
