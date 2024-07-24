@@ -19,4 +19,4 @@ We strongly discourage the presentation of already completed machine learning wo
 **Submission Deadline:** September 7, 2024  
 **Notification of Acceptance:** October 14, 2024
 
-Submit your papers through our [submission portal](#).
+Submit your papers through our [submission portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/NeuroAI#tab-your-consoles).
