@@ -87,7 +87,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Karl Friston:** “The three faces of AI.”
 
-- **Eva Dyer:** Talk title TBA.
+- **Eva Dyer:** “Towards a foundational model for neuroscience.”
 
 - **Rafal Bogacz:** “Predictive coding: effective learning with local plasticity.”
 
