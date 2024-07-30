@@ -16,7 +16,7 @@ Topics of interest include, but are not limited to:
 
 We strongly discourage the presentation of already completed machine learning work including those pfreviously published in NeurIPS main track conference, as our focus is on showcasing innovative and ongoing research. 
 
-Submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
+Please note submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
 
 **Submission Deadline:** September 7, 2024  
 **Notification of Acceptance:** October 14, 2024
