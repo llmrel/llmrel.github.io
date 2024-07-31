@@ -35,3 +35,6 @@ autonomous systems, and object recognition.
 
 Our workshop aims to explore the intersections among these research areas and provide a platform for researchers to navigate the links between artificial and natural intelligence. Accordingly, we hope to use the workshop as a vehicle for delving deeper into this interdisciplinary landscape; evaluate progress toward a unified (computational) framework for natural intelligence and investigate its potential for artificial intelligence. Through discussions about the current research trajectories in neuroscience and AI, we seek to identify fundamental gaps and challenges, paving the way for novel insights and future directions.
 
+
+For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
+
