@@ -7,6 +7,7 @@ permalink: /call-for-papers/
 <!-- # Call for Papers -->
 
 We invite the researchers in the field of NeuroAI to submit their papers to the this Workshop. Authors are encouraged to submit their NeurIPS main conference submissions concurrently to this workshop.
+
 Submissions should adhere to a page limit of 5 pages (excluding references and supplementary materials) and must use the [NeurIPS 2024 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). 
 
 Topics of interest include, but are not limited to:
