@@ -22,7 +22,7 @@ Topics of interest include, but are not limited to:
 
 The topics above are NOT exhaustive, and we encourage the submission of research related to how principles and insights from neuroscience can lead to better artificial intelligence and vice versa.  Our aim is to foster groundbreaking interdisciplinary research that advances both fields.
 
-We strongly discourage the presentation of already completed machine learning work including those previously published in NeurIPS main track conference, as our focus is on showcasing innovative and ongoing research. 
+We strongly discourage the presentation of already completed and/or published machine learning work including those published in previous NeurIPS main track conferences, as our focus is on showcasing innovative and ongoing research. 
 
 Please note submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
 
