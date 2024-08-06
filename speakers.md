@@ -80,7 +80,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 </div>
 
 
-#### **Highlight: Our workshop will feature an in-person panel discussion between the two pioneers in AI and Neuroscience Yoshua Bengio and Karl Friston** ####
+
 
 ## Talk Titles
 
@@ -96,3 +96,32 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
  <!-- - **Doina Precup:** Talk title TBA. -->
 
 - **Ila Fiete:** Talk title TBA.
+
+  
+## Panelists: 
+
+#### **Highlight: Our workshop will feature an in-person panel discussion between the two pioneers in AI and Neuroscience Yoshua Bengio and Karl Friston** ####
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/organizers/Karl Friston.jpg" alt="Karl Friston" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <div style="font-size: 0.9em;">
+      <strong style="font-size: 1.2em; color: blue;">
+        <a href="https://en.wikipedia.org/wiki/Karl_J._Friston" style="color: blue;">Karl Friston</a>
+      </strong><br>
+      University College London
+    </div>
+  </div>
+
+
+   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/organizers/Yoshua Bengio.jpeg" alt="Yoshua Bengio" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <div style="font-size: 0.9em;">
+      <strong style="font-size: 1.2em; color: blue;">
+        <a href="https://yoshuabengio.org/" style="color: blue;">Yoshua Bengio</a>
+      </strong><br>
+      MILA
+    </div>
+  </div>
+</div>
+
