@@ -12,12 +12,13 @@ Submissions should adhere to a page limit of 5 pages (excluding references and s
 
 Topics of interest include, but are not limited to:
 
-**- Explainable and interpretable AI in neuroscience
-- Self-supervised systems in NeuroAI
-- Neuro-inspired architectures, and computations
-- Neuronally-plausible learning regimes 
-- Neuro-inspired reasoning and decision-making
-- Cognitive functions in AI**
+- **Explainable and interpretable AI in neuroscience**
+- **Self-supervised systems in NeuroAI**
+- **Neuro-inspired architectures, and computations**
+- **Neuronally-plausible learning regimes**
+- **Neuro-inspired reasoning and decision-making**
+- **Cognitive functions in AI**
+
 
 The topics above are NOT exhaustive, and we encourage the submission of research related to how principles and insights from neuroscience can lead to better artificial intelligence and vice versa.  Our aim is to foster groundbreaking interdisciplinary research that advances both fields.
 
