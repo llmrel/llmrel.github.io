@@ -100,7 +100,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   
 ## Panelists: 
 
-#### **Highlight: Our workshop will feature an in-person panel discussion between the two pioneers in AI and Neuroscience Yoshua Bengio and Karl Friston** ####
+#### **Highlight: Our workshop will feature an in-person panel discussion between the two pioneers in AI and Neuroscience: Yoshua Bengio and Karl Friston** ####
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
