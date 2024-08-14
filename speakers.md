@@ -48,8 +48,8 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     </div>
   </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
-  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
+
+ <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Max Welling.jpg" alt="Max Welling" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
@@ -58,17 +58,6 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       University of Amsterdam
     </div>
   </div>
-
-
- <!-- <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Doina Precup.jpg" alt="Doina Precup" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
-    <div style="font-size: 0.9em;">
-      <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://rl.cs.mcgill.ca/people/doina-precup/" style="color: blue;">Doina Precup</a>
-      </strong><br>
-      DeepMind/McGill University
-    </div>
-  </div> -->
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Ila Fiete.jpg" alt="Ila Fiete" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
@@ -95,7 +84,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Kanaka Rajan:** “Beyond benchmarking: deeper behavioral and representational analysis to understand model performance in open-ended foraging tasks.”
 
- <!-- - **Doina Precup:** Talk title TBA. -->
+- **Max Welling:** Talk title TBA.
 
 - **Ila Fiete:** Talk title TBA.
 
