@@ -48,15 +48,17 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     </div>
   </div>
 
- <!--  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Brett Kagan.jpg" alt="Brett J. Kagan" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/organizers/Max Welling.jpg" alt="Max Welling" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://www.corticallabs.com" style="color: blue;">Brett J. Kagan</a>
+        <a href="https://en.wikipedia.org/wiki/Max_Welling" style="color: blue;">Max Welling</a>
       </strong><br>
-      Cortical Labs
+      University of Amsterdam
     </div>
-  </div> -->
+  </div>
+
 
  <!-- <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Doina Precup.jpg" alt="Doina Precup" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
