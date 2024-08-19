@@ -24,7 +24,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://dyerlab.gatech.edu/" style="color: blue;">Eva Dyer</a>
       </strong><br>
-      Goergia Institute of Technology
+      Georgia Institute of Technology
     </div>
   </div>
 
