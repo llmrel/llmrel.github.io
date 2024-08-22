@@ -14,7 +14,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://en.wikipedia.org/wiki/Karl_J._Friston" style="color: blue;">Karl Friston</a>
       </strong><br>
-      University College London
+      University College London (UCL)
     </div>
   </div>
 
