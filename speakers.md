@@ -84,7 +84,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Kanaka Rajan:** “Beyond benchmarking: deeper behavioral and representational analysis to understand model performance in open-ended foraging tasks.”
 
-- **Max Welling:** Talk title TBA.
+- **Max Welling:** “Spatiotemporal neural representations.”
 
 - **Ila Fiete:** Talk title TBA.
 
