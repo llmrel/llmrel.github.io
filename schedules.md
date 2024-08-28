@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Schedules"
-permalink: /schedules/
+title: "Schedule"
+permalink: /schedule/
 ---
 
 <!-- # Schedules -->
