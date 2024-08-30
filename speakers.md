@@ -38,6 +38,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     </div>
   </div>
 
+<!-- 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Kanaka Rajan.jpg" alt="Kanaka Rajan" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -47,6 +48,8 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       Harvard University
     </div>
   </div>
+-->
+
 
 
  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
@@ -82,7 +85,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Rafal Bogacz:** “Predictive coding: effective learning with local plasticity.”
 
-- **Kanaka Rajan:** “Beyond benchmarking: deeper behavioral and representational analysis to understand model performance in open-ended foraging tasks.”
+<!-- - **Kanaka Rajan:** “Beyond benchmarking: deeper behavioral and representational analysis to understand model performance in open-ended foraging tasks.” -->
 
 - **Max Welling:** “Spatiotemporal neural representations.”
 

@@ -6,7 +6,7 @@ permalink: /call-for-papers/
 
 <!-- # Call for Papers -->
 
-We invite the researchers in the field of NeuroAI to submit their papers to the this Workshop. Authors are also encouraged to submit short versions of their NeurIPS main conference submissions concurrently to this workshop.
+We invite the researchers in the field of NeuroAI to submit their papers to this workshop. Authors are also encouraged to submit short versions of their NeurIPS main conference submissions concurrently to this workshop.
 
 Submissions should adhere to a page limit of 5 pages (excluding references and supplementary materials) and must use the [NeurIPS 2024 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). All submissions must be anonymized and may not contain any identifying information that may violate the **double-blind** reviewing policy.
 
@@ -30,6 +30,15 @@ Please note submissions that solely explore ML/AI algorithms without an explicit
 **Notification of Acceptance:** October 9, 2024
 
 Submit your papers through our [submission portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/NeuroAI#tab-your-consoles).
+
+### **Spotlight Talks:**
+
+The top 3  highly scored submissions will be chosen for spotlight talks.
+
+**[Cortical Labs](https://corticallabs.com/)** will sponsor our workshop at NeurIPS 2024. Cortical Labs will cover the NeurIPS workshop registration fee for one student author of each of the **three spotlight papers** selected by our reviewers. **Additionally, one student author of the top paper will have their airfare covered.**
+
+We encourage early-career researchers to submit their work and take advantage of this opportunity.
+
 
 For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
 
