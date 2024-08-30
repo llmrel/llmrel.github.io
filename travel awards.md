@@ -19,6 +19,6 @@ We encourage early-career researchers to submit their work and take advantage of
 
 The top 3  highly scored submissions will be chosen for spotlight talks.
 
-**[Cortical Labs](https://corticallabs.com/)** will cover the NeurIPS workshop registration fee for one student author of each of the **three spotlight papers** selected by our reviewers. **Additionally, one student author of the top paper will have their airfare covered.**
+**[Cortical Labs](https://corticallabs.com/)** will cover the NeurIPS workshop registration fee for one student author of each of the **three spotlight papers** selected by our reviewers. **Additionally, one student author of the top paper will have their airfare covered by Cortical Labs.**
 
 We encourage early-career researchers to submit their work to this workshop.
