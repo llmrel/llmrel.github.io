@@ -31,6 +31,7 @@ Please note submissions that solely explore ML/AI algorithms without an explicit
 
 Submit your papers through our [submission portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/NeuroAI#tab-your-consoles).
 
+<!--
 ### **Spotlight Talks:**
 
 The top 3  highly scored submissions will be chosen for spotlight talks.
@@ -38,7 +39,7 @@ The top 3  highly scored submissions will be chosen for spotlight talks.
 **[Cortical Labs](https://corticallabs.com/)** will sponsor our workshop at NeurIPS 2024. Cortical Labs will cover the NeurIPS workshop registration fee for one student author of each of the **three spotlight papers** selected by our reviewers. **Additionally, one student author of the top paper will have their airfare covered.**
 
 We encourage early-career researchers to submit their work and take advantage of this opportunity.
-
+-->
 
 For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
 
