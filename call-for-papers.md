@@ -6,7 +6,7 @@ permalink: /call-for-papers/
 
 <!-- # Call for Papers -->
 
-We invite researchers in the field of NeuroAI to submit their papers to this workshop. Authors are also encouraged to submit short versions of their NeurIPS main conference submissions concurrently to this workshop.
+We invite researchers in the field of NeuroAI to submit their papers to this workshop. The workshop papers are non-archival and authors are also encouraged to submit short versions of their NeurIPS main conference submissions concurrently to this workshop.
 
 Submissions should adhere to a page limit of 5 pages (excluding references and supplementary materials) and must use the [NeurIPS 2024 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). All submissions must be anonymized and may not contain any identifying information that may violate the **double-blind** reviewing policy.
 
@@ -20,9 +20,9 @@ Topics of interest include, but are not limited to:
 - **Cognitive functions in AI**
 
 
-The topics above are NOT exhaustive, and we encourage the submission of research related to how principles and insights from neuroscience can lead to better artificial intelligence and vice versa.  Our aim is to foster groundbreaking interdisciplinary research that advances both fields.
+The topics above are NOT exhaustive, and we encourage the submission of research related to how principles and insights from neuroscience can lead to better artificial intelligence and vice versa. Our aim is to foster groundbreaking interdisciplinary research that advances both fields.
 
-We strongly discourage the presentation of already completed and/or published machine learning work including those published in previous NeurIPS main track conferences, as our focus is on showcasing innovative and ongoing research. 
+We strongly discourage the presentation of already completed and/or published machine learning work including those published in previous NeurIPS main-track conferences, as our focus is on showcasing innovative and ongoing research. 
 
 Please note submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
 
@@ -34,6 +34,7 @@ Submit your papers through our [submission portal](https://openreview.net/group?
 
 The top 3 highly scored submissions will be chosen for spotlight talks.
 
+**Reviewer Nomination Form:** [Google Form](Nomination form for reviewers: https://forms.gle/sEAeHx1svWBgbSMU7)
 
 For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
 
