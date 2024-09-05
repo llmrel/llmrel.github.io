@@ -26,7 +26,7 @@ We strongly discourage the presentation of already completed and/or published ma
 
 Please note submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
 
-**Submission Deadline:** 23:59 September 7, 2024 (AoE)
+**Submission Deadline:** <span style="color: red;">Extended to 23:59 September 9, 2024 (AoE)</span>
 
 **Notification of Acceptance:** October 9, 2024
 
