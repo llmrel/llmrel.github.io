@@ -34,7 +34,7 @@ Submit your papers through our [submission portal](https://openreview.net/group?
 
 The top 3 highly scored submissions will be chosen for spotlight talks.
 
-**Reviewer Nomination Form:** [Google Form](Nomination form for reviewers: https://forms.gle/sEAeHx1svWBgbSMU7)
+**Reviewer Nomination Form:** [Google Form](https://forms.gle/sEAeHx1svWBgbSMU7)
 
 For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
 
