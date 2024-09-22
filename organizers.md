@@ -71,7 +71,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Anthony Zador.jpeg" alt="Anthony Zador" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Anthony Zador.png" alt="Anthony Zador" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://www.cshl.edu/research/faculty-staff/anthony-zador/" style="color: blue;">Anthony Zador</a>
