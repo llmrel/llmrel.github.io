@@ -9,7 +9,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Karl Friston.jpg" alt="Karl Friston" style="width: 175px; height: 220px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Karl Friston.jpg" alt="Karl Friston" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://en.wikipedia.org/wiki/Karl_J._Friston" style="color: blue;">Karl Friston</a>
@@ -19,7 +19,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Eva Dyer" style="width: 175px; height: 220px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Eva Dyer" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://dyerlab.gatech.edu/" style="color: blue;">Eva Dyer</a>
@@ -29,7 +29,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Rafal Bogacz.jpg" alt="Rafal Bogacz" style="width: 175px; height: 220px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Rafal Bogacz.jpg" alt="Rafal Bogacz" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://www.mrcbndu.ox.ac.uk/people/prof-rafal-bogacz" style="color: blue;">Rafal Bogacz</a>
