@@ -45,7 +45,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://nseip.usc.edu/people/" style="color: blue;">Maryam Shanechi</a>
       </strong><br>
-      Harvard University
+      University of Southern California
     </div>
   </div>
 
