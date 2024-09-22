@@ -20,7 +20,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Forough Habibollahi" style="width: 210px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Forough Habibollahi" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://foroughha.github.io/" style="color: blue;">Forough Habibollahi</a>
@@ -40,7 +40,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Jason Eshraghian.jpeg" alt="Jason Eshraghian" style="width: 210px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Jason Eshraghian.jpeg" alt="Jason Eshraghian" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://ncg.ucsc.edu/" style="color: blue;">Jason Eshraghian</a>
