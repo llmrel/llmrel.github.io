@@ -10,8 +10,8 @@ permalink: /accepted-papers/
 <!-- #We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors! -->
 
 - [Value of Information and Reward Specification in Active Inference and POMDPs](https://openreview.net/forum?id=ZyQvVHlRLD) - Accept (Spotlight)
-- [A Hopfield network model of neuromodulatory arousal state](https://openreview.net/forum?id=sMhh9O7erA) - Accept (Spotlight)
 - [Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building](https://openreview.net/forum?id=bmUUynN7Rm) - Accept (Spotlight)
+- [A Hopfield network model of neuromodulatory arousal state](https://openreview.net/forum?id=sMhh9O7erA) - Accept (Spotlight)
 - [Neuron-Astrocyte Associative Memory](https://openreview.net/forum?id=h1pL7JiKsA) - Accept (Poster)
 - [Predictive Learning Induces Probabilistic Cognitive Maps](https://openreview.net/forum?id=O9bbw7BLmP) - Accept (Poster)
 - [SynapsNet: Enhancing Neuronal Population Dynamics Modeling via Learning Functional Connectivity](https://openreview.net/forum?id=DQTWA7Zn8w) - Accept (Poster)
