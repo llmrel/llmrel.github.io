@@ -6,6 +6,8 @@ permalink: /schedules/
 
 <!-- # Schedule -->
 
+The workshop will be held on Sat 14 Dec, 8:15 a.m. PST in Ballroom B located in the West Building of the Vancouver Convention Center. 
+
 Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates on session timings and speaker slots.
 
 
