@@ -5,6 +5,15 @@ robots: noindex
 
 <div class="main-post-list">
 
+   <!-- Add conference location and date here -->
+  <div class="conference-details">
+    <h2>{{ site.title }}</h2>
+    <p><strong>Location:</strong> {{ site.where }}</p>
+    <p><strong>Date:</strong> {{ site.when }}</p>
+    <p>{{ site.description }}</p>
+  </div>
+
+
   <ol class="post-list">
     {% for post in paginator.posts %}
       <li>
