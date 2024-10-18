@@ -94,46 +94,47 @@ We are pleased to announce the list of accepted papers for the NeuroAI Workshop.
 <style>
   .workshop-stats {
     text-align: center;
-    padding: 40px;
+    padding: 30px; /* Reduced padding */
     background-color: #f0f4f8;
   }
 
   .stats-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); /* Reduced min column width */
+    gap: 15px; /* Reduced gap */
+    margin-top: 15px;
   }
 
   .stat-card {
     background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px; /* Reduced padding */
+    border-radius: 8px; /* Slightly smaller border radius */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1); /* Slightly smaller shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
   .stat-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-3px); /* Reduced hover effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Reduced hover shadow */
   }
 
   .stat-card h3 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
+    font-size: 1.1rem; /* Slightly smaller font size */
+    margin-bottom: 8px;
   }
 
   .stat-card p {
-    font-size: 2rem;
+    font-size: 1.8rem; /* Slightly smaller text */
     color: #333;
   }
 
   .stat-card i {
-    font-size: 3rem;
-    margin-bottom: 10px;
+    font-size: 2.5rem; /* Smaller icon size */
+    margin-bottom: 8px;
     color: #6c63ff;
   }
 </style>
 
 <!-- Add FontAwesome icons -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+
