@@ -53,3 +53,87 @@ permalink: /accepted-papers/
 - [Brain in the Dark: Design Principles for Neuromimetic Inference under the Free Energy Principle](https://openreview.net/forum?id=noN17FcjMB), Mehran Hossein Zadeh Bazargani · Szymon Urbas · Karl Friston - **Accept (Poster)**
 - [Multiple temporal credit assignment rules achieve comparable neural data similarity](https://openreview.net/forum?id=kEKkagB98d), Yuhan Helena Liu · Guangyu Robert Yang · Christopher Cueva - **Accept (Poster)**
 
+
+<section id="paper-stats" class="workshop-stats">
+  <h2>Workshop Paper Statistics</h2>
+  <div class="stats-grid">
+    <div class="stat-card">
+      <i class="fas fa-file-alt"></i>
+      <h3>Total Submissions</h3>
+      <p>113</p>
+    </div>
+    <div class="stat-card">
+      <i class="fas fa-check"></i>
+      <h3>Accepted Papers</h3>
+      <p>43</p>
+    </div>
+    <div class="stat-card">
+      <i class="fas fa-percentage"></i>
+      <h3>Acceptance Rate</h3>
+      <p>38%</p>
+    </div>
+    <div class="stat-card">
+      <i class="fas fa-users"></i>
+      <h3>Reviewers Involved</h3>
+      <p>121</p>
+    </div>
+    <div class="stat-card">
+      <i class="fas fa-comment-dots"></i>
+      <h3>Reviews Submitted</h3>
+      <p>349</p>
+    </div>
+    <div class="stat-card">
+      <i class="fas fa-chart-line"></i>
+      <h3>Average Reviews Per Paper</h3>
+      <p>3.08</p>
+    </div>
+  </div>
+</section>
+
+<!-- Add some CSS -->
+<style>
+  .workshop-stats {
+    text-align: center;
+    padding: 40px;
+    background-color: #f0f4f8;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .stat-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .stat-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+
+  .stat-card p {
+    font-size: 2rem;
+    color: #333;
+  }
+
+  .stat-card i {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    color: #6c63ff;
+  }
+</style>
+
+<!-- Add FontAwesome icons -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
