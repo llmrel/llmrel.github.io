@@ -7,7 +7,7 @@ permalink: /accepted-papers/
 
 <!-- # Accepted Papers -->
 
-<-- #We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors! -->
+We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors! 
 
 - [Value of Information and Reward Specification in Active Inference and POMDPs](https://openreview.net/forum?id=ZyQvVHlRLD), Ran Wei - **Accept (Spotlight)**
 - [Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building](https://openreview.net/forum?id=bmUUynN7Rm), Jaedong Hwang · Zhang-Wei Hong · Eric Chen · Akhilan Boopathy · Pulkit Agrawal · Ila Fiete - **Accept (Spotlight)**
