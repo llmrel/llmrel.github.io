@@ -74,7 +74,7 @@ permalink: /accepted-papers/
     </div>
     <div class="stat-card">
       <i class="fas fa-users"></i>
-      <h3>Reviewers Involved</h3>
+      <h3>Reviewers Contributed</h3>
       <p>121</p>
     </div>
     <div class="stat-card">
