@@ -89,7 +89,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Max Welling:** “Spatiotemporal neural representations.”
 
-- **Ila Fiete:** Talk title TBA.
+- **Doina Precup:** Talk title TBA.
 
   
 ## Panelists: 
