@@ -31,14 +31,14 @@ Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates o
     <td style="border: 1px solid black; padding: 8px;">Keynote 4 & 5 & 6</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="border: 1px solid black; padding: 8px;">08:55 – 10:40</td>
-    <td style="border: 1px solid black; padding: 8px;">Keynote 1 & 2 & 3</td>
+    <td style="border: 1px solid black; padding: 8px;">08:55 – 9:15</td>
+    <td style="border: 1px solid black; padding: 8px;">Coffee Break</td>
     <td style="border: 1px solid black; padding: 8px;">15:00 – 15:30</td>
     <td style="border: 1px solid black; padding: 8px;">Coffee Break</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">10:40 – 11:00</td>
-    <td style="border: 1px solid black; padding: 8px;">Coffee Break</td>
+    <td style="border: 1px solid black; padding: 8px;">9:15 – 11:00</td>
+    <td style="border: 1px solid black; padding: 8px;">Keynote 1 & 2 & 3</td>
     <td style="border: 1px solid black; padding: 8px;">15:30 – 16:15</td>
     <td style="border: 1px solid black; padding: 8px;">Poster Session 2</td>
   </tr>
