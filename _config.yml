@@ -47,5 +47,5 @@ title: "NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop"
 date_text: "<span style='color: white;'>December 14th, 2024</span>"
 where: "<span style='color: white;'>Vancouver Convention Center</span>"
 description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
-url: "NeuroAI-Workshop.github.io"
+url: "https://NeuroAI-Workshop.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
