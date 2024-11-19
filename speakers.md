@@ -40,7 +40,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Maryam_Shanechi.jpeg" alt="Maryam Shanechi" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Maryam Shanechi.jpg" alt="Maryam Shanechi" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://nseip.usc.edu/people/" style="color: blue;">Maryam Shanechi</a>
