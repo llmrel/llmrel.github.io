@@ -6,10 +6,11 @@ permalink: /accepted-papers/
 
 
 <!-- # Accepted Papers -->
+We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors! 
 
 <section id="accepted-papers" class="accepted-papers">
 <!--   <h2>Accepted Papers</h2> -->
-  <p>We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors!</p>
+<!--   <p>We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors!</p> -->
   <div class="scrollable-box">
     <ul>
       <li><a href="https://openreview.net/forum?id=ZyQvVHlRLD" target="_blank">Value of Information and Reward Specification in Active Inference and POMDPs</a>, Ran Wei - <strong>Accept (Spotlight)</strong></li>
