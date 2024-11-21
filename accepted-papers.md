@@ -9,6 +9,7 @@ permalink: /accepted-papers/
 
 We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors! 
 
+
 - [Value of Information and Reward Specification in Active Inference and POMDPs](https://openreview.net/forum?id=ZyQvVHlRLD), Ran Wei - **Accept (Spotlight)**
 - [Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building](https://openreview.net/forum?id=bmUUynN7Rm), Jaedong Hwang · Zhang-Wei Hong · Eric Chen · Akhilan Boopathy · Pulkit Agrawal · Ila Fiete - **Accept (Spotlight)**
 - [A Hopfield network model of neuromodulatory arousal state](https://openreview.net/forum?id=sMhh9O7erA), Mohammed Osman · Kai Fox · Joshua Stern - **Accept (Spotlight)**
@@ -137,4 +138,42 @@ We are pleased to announce the list of accepted papers for the NeuroAI Workshop.
 
 <!-- Add FontAwesome icons -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+
+
+
+<section id="latex-template" class="latex-template">
+  <h2>LaTeX Template for Camera-Ready Papers</h2>
+  <p>Authors of accepted papers are required to download and use the following LaTeX template to prepare their camera-ready versions:</p>
+  <a href="/resources/NeuroAI_latex_template.zip" class="download-button" download>
+    <i class="fas fa-download"></i> Download LaTeX Template
+  </a>
+</section>
+
+<!-- Add some CSS -->
+<style>
+  .latex-template {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+
+  .download-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #6c63ff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .download-button:hover {
+    background-color: #5a54d6;
+  }
+</style>
 
