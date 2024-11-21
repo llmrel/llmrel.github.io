@@ -192,7 +192,7 @@ We are pleased to announce the list of accepted papers for the NeuroAI Workshop.
 
 
 <section id="latex-template" class="latex-template">
-  <h2>LaTeX Template for Camera-Ready Papers</h2>
+  <h2>LaTeX Template for Camera-Ready Versions</h2>
   <p>Authors of accepted papers are required to download and use the following LaTeX template to prepare their camera-ready versions:</p>
   <a href="/resource/NeuroAI_latex_template.zip" class="download-button" download>
     <i class="fas fa-download"></i> Download LaTeX Template
