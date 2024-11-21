@@ -8,7 +8,7 @@ permalink: /accepted-papers/
 <!-- # Accepted Papers -->
 
 <section id="accepted-papers" class="accepted-papers">
-  <h2>Accepted Papers</h2>
+<!--   <h2>Accepted Papers</h2> -->
   <p>We are pleased to announce the list of accepted papers for the NeuroAI Workshop. Congratulations to all the authors!</p>
   <div class="scrollable-box">
     <ul>
