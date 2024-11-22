@@ -85,7 +85,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Rafal Bogacz:** “Predictive coding: effective learning with local plasticity.”
 
-- **Maryam Shanechi:** “Talk title TBA.”
+- **Maryam Shanechi:** “Dynamical models of neural-behavioral data and application to neurotechnology.”
 
 - **Max Welling:** “Spatiotemporal neural representations.”
 
