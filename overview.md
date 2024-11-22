@@ -44,7 +44,7 @@ For further information and should you have any inquiries, please contact: [neur
 
 Join the community to stay connected!
 <a href="https://discord.gg/GSUXz7Ep" target="_blank">
-    <img src="images/favicons/Discord_Logo.png" alt="Join the community" style="width: 50px; height: auto;">
+    <img src="(https://github.com/NeuroAI-workshop/NeuroAI-Workshop.github.io/blob/main/images/favicons/Discord_Logo.png)" alt="Join the community" style="width: 50px; height: auto;">
 </a>
 
 
