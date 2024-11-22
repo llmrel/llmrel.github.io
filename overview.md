@@ -42,6 +42,7 @@ Our workshop aims to explore the intersections among these research areas and pr
 
 For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
 
+Join the community to stay connected!
 <a href="https://discord.gg/GSUXz7Ep" target="_blank">
     <img src="images/favicons/Discord_Logo.png" alt="Join the community" style="width: 50px; height: auto;">
 </a>
