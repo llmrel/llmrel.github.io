@@ -46,7 +46,7 @@ Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates o
     <td style="border: 1px solid black; padding: 8px;">11:00 – 11:15</td>
     <td style="border: 1px solid black; padding: 8px;">Spotlight Talk 3</td>
     <td style="border: 1px solid black; padding: 8px;">15:30 – 16:30</td>
-    <td style="border: 1px solid black; padding: 8px;">Poster Session & Coffe</td>
+    <td style="border: 1px solid black; padding: 8px;">Poster Session & Coffee</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">11:15 – 12:15</td>
