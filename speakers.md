@@ -89,7 +89,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 - **Max Welling:** “Spatiotemporal neural representations.”
 
-- **Doina Precup:** Talk title TBA.
+- **Doina Precup:** “Continual Reinforcement Learning in Brains and Machines.”
 
   
 ## Panelists: 
