@@ -4,7 +4,7 @@ layout: default
 permalink: /NeuroAI_Webinar/
 ---
 
-![NeuroAI Webinar Banner](../assets/webinar_banner.png)  
+<!--![NeuroAI Webinar Banner](../assets/webinar_banner.png)-->  
 
 ## Upcoming Webinars  
 
