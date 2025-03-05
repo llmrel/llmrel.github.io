@@ -1,6 +1,7 @@
 ---
 title: NeuroAI Emerging Leaders Webinar Series
 layout: default
+permalink: /NeuroAI_Webinar/
 ---
 
 ![NeuroAI Webinar Banner](../assets/webinar_banner.png)  
