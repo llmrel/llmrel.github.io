@@ -9,7 +9,7 @@ permalink: /NeuroAI_Webinar/
 
 ## Upcoming Webinars  
 
-- **Speaker:** Aran Nayebi  
+- **Speaker:** Aran Nayebi, Assistant Professor at Carnegie Mellon University  
   **Title:** *Using embodied agents to help answer "why" questions in systems neuroscience*  
   **Date:** 3rd April 2025  
   **Time:**  5 PM EST / 9 PM GMT     
