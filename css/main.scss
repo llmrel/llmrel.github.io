@@ -58,3 +58,41 @@ pre.highlight code,
   border: 3px solid #fff;
   border-radius:100%;
 }
+
+
+
+/* Subtle highlight for the Webinar Series tab */
+.webinar-highlight {
+    font-weight: bold;
+    color: #d9534f !important; /* Professional red */
+    border: 2px solid #d9534f; /* Subtle red outline */
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.webinar-highlight:hover {
+    background-color: #d9534f;
+    color: white !important;
+}
+
+/* Stylish 'LIVE' badge */
+.new-badge {
+    background-color: #ffcc00;
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+    animation: pulse 1.5s infinite;
+}
+
+/* Elegant pulsing effect */
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
+}
+
