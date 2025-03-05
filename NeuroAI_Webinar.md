@@ -5,6 +5,7 @@ permalink: /NeuroAI_Webinar/
 ---
 
 <!--![NeuroAI Webinar Banner](../assets/webinar_banner.png)-->  
+## NeuroAI Emerging Leaders Webinar Series  
 
 ## Upcoming Webinars  
 
