@@ -20,8 +20,7 @@ permalink: /NeuroAI_Webinar/
 ## Past Webinars  
 - **Speaker:** Aran Nayebi, Assistant Professor at Carnegie Mellon University  
   **Title:** *Why NeuroAI Needs NeuroAgents*  
-  **Date:** 3rd April 2025  
-  **Time:**  5 PM EST / 9 PM GMT      
+  **Time:** 5 PM EST / 9 PM GMT - 3rd April 2025     
   **Recording:** [Youtube Channel](https://youtu.be/9_7mQu5NEfs)  
 
 
