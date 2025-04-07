@@ -24,4 +24,4 @@ permalink: /NeuroAI_Webinar/
   **Recording:** [Youtube Channel](https://youtu.be/9_7mQu5NEfs)  
 
 
-*(Stay tuned for recorded talks!)*  
+*(Stay tuned for future talks!)*  
