@@ -13,7 +13,7 @@ permalink: /NeuroAI_Webinar/
   **Date:** 8th May 2025  
   **Time:**  9 AM EDT / 2 PM BST   
   **Register Here:**  [Register for free](https://docs.google.com/forms/d/e/1FAIpQLSds3VRDTUKdkKd3g6dXHHvXZsWHzfCM-TenM7AwUzYmHWEg7A/viewform)   
-  **Webinar Link:**  [Join the webinar](--)     
+  **Webinar Link:**  [Join the webinar](https://monash.zoom.us/j/82951066486?pwd=lMUL2Whj4jV11sQ9fs2lwMmO2R8F3w.1)    
   **Recording:** [Coming Soon](https://www.youtube.com/@NeuroaiNeurips2024)  
 
 
