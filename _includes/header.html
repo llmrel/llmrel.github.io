@@ -7,6 +7,15 @@
   style="background-image: url({{ site.baseurl }}/images/cover.jpg)">
   <div class="panel-main">
 
+    <!-- TOP-RIGHT: Previous Years Dropdown -->
+    <div class="previous-years-dropdown">
+      <a href="#" class="nav-button">Previous Years ▾</a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ site.baseurl }}/previous_years/2024/index.html">2024</a></li>
+        <!-- Add more years as needed -->
+      </ul>
+    </div>
+
     <div class="panel-main__inner panel-inverted">
       <div class="panel-main__content">
         <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
@@ -15,48 +24,38 @@
         <hr class="panel-cover__divider">
         <p class="panel-cover__description">{{ site.description }}</p>
 
-        <!-- Add date and location below description -->
+        <!-- Date and location -->
         <h2 style="color: white; font-size: 18px; margin-top: 10px;">{{ site.date_text | markdownify }}</h2>
         <h3 style="color: white; font-size: 16px; margin-top: 5px;">{{ site.where | markdownify }}</h3>
-        
+
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
         <div class="navigation-wrapper">
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/overview/" title="link to Overview" class="nav-button">Overview</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/organizers/" title="link to Organizers" class="nav-button">Organizers</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/speakers/" title="link to Speakers" class="nav-button">Speakers</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/call-for-papers/" title="link to Call for Papers" class="nav-button">Call for Papers</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/travel awards/" title="link to Travel Awards" class="nav-button">Travel Awards</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/schedules/" title="link to Schedules" class="nav-button">Schedules</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/accepted-papers/" title="link to Accepted Papers" class="nav-button">Accepted Papers</a></li>
-              <li class="navigation__item dropdown">
-              <a href="#" class="nav-button">Previous Years ▾</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}/previous_years/2024/index.html">2024</a></li>
-              </ul>
-            </li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/overview/" class="nav-button">Overview</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/organizers/" class="nav-button">Organizers</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/speakers/" class="nav-button">Speakers</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/call-for-papers/" class="nav-button">Call for Papers</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/travel awards/" class="nav-button">Travel Awards</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/schedules/" class="nav-button">Schedules</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/accepted-papers/" class="nav-button">Accepted Papers</a></li>
               <li class="navigation__item">
-              <a href="{{ site.baseurl }}/NeuroAI_Webinar/" 
-                 title="link to Webinar" 
-                 class="nav-button webinar-highlight">
-                Webinar Series <span class="new-badge">UPCOMING</span>
-              </a>
-            </li>
-
+                <a href="{{ site.baseurl }}/NeuroAI_Webinar/" class="nav-button webinar-highlight">
+                  Webinar Series <span class="new-badge">UPCOMING</span>
+                </a>
+              </li>
             </ul>
           </nav>
 
           <nav class="cover-navigation navigation--social">
-            <!-- Social navigation here -->
+            <!-- Social nav here -->
           </nav>
 
         </div>
 
       </div>
-
     </div>
 
     <div class="panel-cover--overlay"></div>
