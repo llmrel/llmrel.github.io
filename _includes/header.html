@@ -7,14 +7,7 @@
   style="background-image: url({{ site.baseurl }}/images/cover.jpg)">
   <div class="panel-main">
 
-    <!-- TOP-RIGHT: Previous Years Dropdown -->
-    <div class="previous-years-dropdown">
-      <a href="#" class="nav-button">Past Workshops ▾</a>
-      <ul class="dropdown-menu">
-        <li><a href="{{ site.baseurl }}/previous_years/2024/index.html">2024</a></li>
-        <!-- Add more years as needed -->
-      </ul>
-    </div>
+
 
     <div class="panel-main__inner panel-inverted">
       <div class="panel-main__content">
@@ -61,3 +54,13 @@
     <div class="panel-cover--overlay"></div>
   </div>
 </header>
+
+<!-- Past Workshops Dropdown - fixed top-right -->
+<div class="past-workshops-dropdown">
+  <select onchange="location = this.value;">
+    <option disabled selected>Past Workshops</option>
+    <option value="{{ site.baseurl }}/previous_years/2024/index.html">2024</option>
+    <option value="{{ site.baseurl }}/previous_years/2023/index.html">2023</option>
+    <!-- Add more years here -->
+  </select>
+</div>
