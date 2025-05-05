@@ -96,3 +96,36 @@ pre.highlight code,
     100% { opacity: 1; }
 }
 
+
+/* Dropdown styles */
+.navigation__item.dropdown {
+  position: relative;
+}
+
+.navigation__item.dropdown .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #222;
+  min-width: 160px;
+  z-index: 1;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #333;
+}
+
+.navigation__item.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content li a {
+  display: block;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.dropdown-content li a:hover {
+  background-color: #444;
+}
+
