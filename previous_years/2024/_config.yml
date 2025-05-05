@@ -1,0 +1,51 @@
+# # Site settings
+# title: "NeuroAI Workshop"
+# description: "Website for the NeuroAI Workshop"
+# url: "https://NeuroAI-Workshop.github.io"
+# baseurl: '/jekyll-uno'
+# # google_analytics: 'UA-XXXXXX-X'
+# # disqus_shortname: 'your-disqus-name'
+# # disable_landing_page: true
+
+# author:
+#   name: 'Josh Gerdes'
+#   email: josh@joshgerdes.com
+#   twitter_username: joshgerdes
+#   facebook_username: joshgerdes
+#   github_username:  joshgerdes
+#   linkedin_username:  joshgerdes
+
+# defaults:
+#   -
+#     scope:
+#       path: ''
+#       type: 'posts'
+#     values:
+#         layout: 'post'
+
+# # Build settings
+# destination: _site
+# paginate: 10
+# permalink: /:year/:title/
+# markdown: kramdown
+# highlighter: rouge
+
+# sass:
+#     sass_dir: _sass
+#     style: compressed
+
+# kramdown:
+#   # use Github Flavored Markdown
+#   input: GFM
+#   # do not replace newlines by <br>s
+#   hard_wrap: false
+
+# plugins: ['jekyll-paginate']
+# exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+title: "NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop"
+date_text: "<span style='color: white;'>December 14th, 2024</span>"
+where: "<span style='color: white;'>Vancouver Convention Center</span>"
+description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
+url: "https://neuroai-workshop.github.io/"
+baseurl: "" # the subpath of your site, e.g. /blog
