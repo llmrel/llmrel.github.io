@@ -1,42 +1,35 @@
----
-layout: default
-robots: noindex
----
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>NeuroAI Workshop 2024</title>
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
 
 <div class="main-post-list">
 
+  <h1>NeuroAI Workshop 2024</h1>
 
-  <ol class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.excerpt | strip_html }}&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time>
-            {% if post.tags.size > 0 %}
-            &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
-            {% endif %}
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    {% endfor %}
-  </ol>
-
-
-   
-   <!-- Add conference location and date here -->
   <div class="conference-details">
-    <h2>{{ site.title }}</h2>
-    <p><strong>Location:</strong> {{ site.where }}</p>
-    <p><strong>Date:</strong> {{ site.when }}</p>
-    <p>{{ site.description }}</p>
+    <p><strong>Location:</strong> Vancouver Convention Center</p>
+    <p><strong>Date:</strong> December 14th, 2024</p>
+    <p>Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence.</p>
   </div>
 
+  <hr class="post-list__divider">
 
-  <hr class="post-list__divider ">
-
-  {% if paginator.previous_page or paginator.next_page %}
-      {% include pagination.html %}
-  {% endif %}
+  <ul class="nav">
+    <li><a href="overview.html">Overview</a></li>
+    <li><a href="organizers.html">Organizers</a></li>
+    <li><a href="speakers.html">Speakers</a></li>
+    <li><a href="call-for-papers.html">Call for Papers</a></li>
+    <li><a href="travel-awards.html">Travel Awards</a></li>
+    <li><a href="schedules.html">Schedules</a></li>
+    <li><a href="accepted-papers.html">Accepted Papers</a></li>
+  </ul>
 
 </div>
+
+</body>
+</html>
