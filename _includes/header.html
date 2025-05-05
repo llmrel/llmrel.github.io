@@ -7,6 +7,16 @@
   style="background-image: url({{ site.baseurl }}/images/cover.jpg)">
   <div class="panel-main">
 
+      {% include header.html %}  <!-- or however your header is included -->
+
+  <!-- Past Workshops Dropdown - fixed top-right -->
+  <div class="past-workshops-dropdown">
+    <select onchange="location = this.value;">
+      <option disabled selected>Past Workshops</option>
+      <option value="{{ site.baseurl }}/previous_years/2024/index.html">2024</option>
+      <option value="{{ site.baseurl }}/previous_years/2023/index.html">2023</option>
+    </select>
+  </div>
 
 
     <div class="panel-main__inner panel-inverted">
@@ -56,14 +66,4 @@
 </header>
 
 
-  {% include header.html %}  <!-- or however your header is included -->
-
-  <!-- Past Workshops Dropdown - fixed top-right -->
-  <div class="past-workshops-dropdown">
-    <select onchange="location = this.value;">
-      <option disabled selected>Past Workshops</option>
-      <option value="{{ site.baseurl }}/previous_years/2024/index.html">2024</option>
-      <option value="{{ site.baseurl }}/previous_years/2023/index.html">2023</option>
-    </select>
-  </div>
 
