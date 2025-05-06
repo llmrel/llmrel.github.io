@@ -8,7 +8,7 @@ permalink: /call-for-papers/
 
 We invite researchers in the field of NeuroAI to submit their papers to this workshop. The workshop papers are non-archival and authors are also encouraged to submit short versions of their NeurIPS main conference submissions concurrently to this workshop.
 
-Submissions should adhere to a page limit of 5 pages (excluding references and supplementary materials) and must use the [NeurIPS 2024 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). All submissions must be anonymized and may not contain any identifying information that may violate the **double-blind** reviewing policy.
+Submissions should adhere to a page limit of 5 pages (excluding references and supplementary materials) and must use the [NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). All submissions must be anonymized and may not contain any identifying information that may violate the **double-blind** reviewing policy.
 
 Topics of interest include, but are not limited to:
 
