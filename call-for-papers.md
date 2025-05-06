@@ -26,9 +26,9 @@ We strongly discourage the presentation of already completed and/or published ma
 
 Please note submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
 
-**Submission Deadline:** <span style="color: red;">Extended to 23:59 September 9, 2024 (AoE)</span>
+**Submission Deadline:** <span style="color: red;">Extended to 23:59 August 22, 2025 (AoE)</span>
 
-**Notification of Acceptance:** October 9, 2024
+**Notification of Acceptance:** September 22, 2025
 
 Submit your papers through our [submission portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/NeuroAI#tab-your-consoles).
 
