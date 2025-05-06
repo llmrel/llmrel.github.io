@@ -34,7 +34,7 @@ Here you'll find the schedule for the NeuroAI Workshop. Stay tuned for updates o
     <td style="border: 1px solid black; padding: 8px;">09:10 – 09:30</td>
     <td style="border: 1px solid black; padding: 8px;">Coffee Break</td>
     <td style="border: 1px solid black; padding: 8px;">15:10 – 15:20</td>
-    <td style="border: 1px solid black; padding: 8px;">NeuroAI at NIH/BRAIN Initiative</td>
+    <td style="border: 1px solid black; padding: 8px;">Intro to NeuroAI Initiatives</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">9:30 – 11:15</td>
