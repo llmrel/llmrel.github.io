@@ -17,7 +17,7 @@ permalink: /NeuroAI_Webinar/
   66% { opacity: 0; }
 }
 .dots::after {
-  content: ' .';
+  content: ' ...';
   animation: blink 1s infinite steps(1, start);
 }
 </style>
