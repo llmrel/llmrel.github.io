@@ -29,12 +29,12 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Rafal Bogacz.jpeg" alt="Rafal Bogacz" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Max Welling.jpg" alt="Max Welling" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://www.mrcbndu.ox.ac.uk/people/prof-rafal-bogacz" style="color: blue;">Rafal Bogacz</a>
+        <a href="https://amlab.science.uva.nl/people/MaxWelling/" style="color: blue;">Max Welling</a>
       </strong><br>
-      University of Oxford 
+      CuspAI, University of Amsterdam
     </div>
   </div>
 
@@ -62,7 +62,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Kanaka Rajan.jpg" alt="/Kanaka Rajan" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Kanaka Rajan.png" alt="/Kanaka Rajan" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://neuro.hms.harvard.edu/faculty-staff/kanaka-rajan" style="color: blue;">Kanaka Rajanp</a>
