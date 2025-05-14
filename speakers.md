@@ -19,7 +19,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/DorisTsao.jpg" alt="Doris Tsao" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/DorisTsao.jpeg" alt="Doris Tsao" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://vcresearch.berkeley.edu/faculty/doris-tsao" style="color: blue;">Doris Tsao</a>
@@ -40,7 +40,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Evelina Fedorenko.jpg" alt="Evelina Fedorenko" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Evelina Fedorenko.jpeg" alt="Evelina Fedorenko" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://bcs.mit.edu/directory/evelina-fedorenko" style="color: blue;">Evelina Fedorenk</a>
@@ -52,7 +52,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 
  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Tom Oxley.jpg" alt="Tom Oxley" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Tom Oxley.jpeg" alt="Tom Oxley" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://findanexpert.unimelb.edu.au/profile/439055-thomas-oxley" style="color: blue;">Tom Oxley</a>
