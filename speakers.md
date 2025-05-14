@@ -43,7 +43,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     <img src="{{ site.baseurl }}/images/organizers/Evelina Fedorenko.jpeg" alt="Evelina Fedorenko" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://bcs.mit.edu/directory/evelina-fedorenko" style="color: blue;">Evelina Fedorenk</a>
+        <a href="https://bcs.mit.edu/directory/evelina-fedorenko" style="color: blue;">Evelina Fedorenko</a>
       </strong><br>
       MIT McGovern Institute
     </div>
@@ -78,17 +78,17 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 ## Talk Titles
 
 
-- **Karl Friston:** “The three faces of AI.”
+- **Karl Friston:** “TBA”
 
-- **Eva Dyer:** “Towards a foundational model for neuroscience.”
+- **Doris Tsao:** “TBA”
 
-- **Rafal Bogacz:** “Predictive coding: effective learning with local plasticity.”
+- **Max Welling:** “TBA”
 
-- **Maryam Shanechi:** “Dynamical models of neural-behavioral data and application to neurotechnology.”
+- **Evelina Federenko:** “TBA”
 
-- **Max Welling:** “Spatiotemporal neural representations.”
+- **Tom Oxley:** “TBA”
 
-- **Doina Precup:** “Continual Reinforcement Learning in Brains and Machines.”
+- **Kanaka Rajan:** “TBA”
 
   
 ## Panelists: 
