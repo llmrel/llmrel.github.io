@@ -22,7 +22,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     <img src="{{ site.baseurl }}/images/organizers/DorisTsao.jpg" alt="Doris Tsao" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://vcresearch.berkeley.edu/faculty/doris-tsao" style="color: blue;">Eva Dyer</a>
+        <a href="https://vcresearch.berkeley.edu/faculty/doris-tsao" style="color: blue;">Doris Tsao</a>
       </strong><br>
       UC Berkeley
     </div>
@@ -40,35 +40,34 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Maryam Shanechi.jpg" alt="Maryam Shanechi" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Evelina Fedorenko.jpg" alt="Evelina Fedorenko" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://nseip.usc.edu/people/" style="color: blue;">Maryam Shanechi</a>
+        <a href="https://bcs.mit.edu/directory/evelina-fedorenko" style="color: blue;">Evelina Fedorenk</a>
       </strong><br>
-      University of Southern California
+      MIT McGovern Institute
     </div>
   </div>
-
 
 
 
  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Max Welling.jpg" alt="Max Welling" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Tom Oxley.jpg" alt="Tom Oxley" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://en.wikipedia.org/wiki/Max_Welling" style="color: blue;">Max Welling</a>
+        <a href="https://findanexpert.unimelb.edu.au/profile/439055-thomas-oxley" style="color: blue;">Tom Oxley</a>
       </strong><br>
-      University of Amsterdam
+      Synchron, University of Melbourne
     </div>
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Doina Precup.jpg" alt="Doina Precup" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Kanaka Rajan.jpg" alt="/Kanaka Rajan" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://rl.cs.mcgill.ca/people/doina-precup/" style="color: blue;">Doina Precup</a>
+        <a href="https://neuro.hms.harvard.edu/faculty-staff/kanaka-rajan" style="color: blue;">Kanaka Rajanp</a>
       </strong><br>
-      DeepMind and McGill University
+      Harvard University
     </div>
   </div>
 </div>
