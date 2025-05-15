@@ -63,7 +63,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       Synchron, University of Melbourne
     </div>
   </div>
-  -->
+-->
 
 <!--
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
