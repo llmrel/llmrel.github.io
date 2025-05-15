@@ -78,6 +78,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 </div>
 -->
 
+</div>
 
 ## Talk Titles
 
