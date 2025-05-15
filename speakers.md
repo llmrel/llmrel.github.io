@@ -90,7 +90,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
 - **Evelina Federenko:** “Language and thought in brains and machines”
 
 
-  
+<!--  
 ## Panelists: 
 
 #### **Highlight:** Our workshop will feature an in-person panel discussion between the two pioneers in AI and Neuroscience: Yoshua Bengio and Karl Friston ####
@@ -118,4 +118,4 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     </div>
   </div>
 </div>
-
+-->
