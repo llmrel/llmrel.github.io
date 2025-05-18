@@ -7,11 +7,12 @@ permalink: /NeuroAI_Webinar/
 <!--![NeuroAI Webinar Banner](../assets/webinar_banner.png)-->  
 ## NeuroAI Emerging Leaders Webinar Series  
 
-## Upcoming Webinars 
-<p><strong>Watch this space</strong><span class="dots"></span></p>
-
 Want to stay updated on our upcoming webinars?  
 [Click here to register and receive updates.](https://docs.google.com/forms/d/e/1FAIpQLSds3VRDTUKdkKd3g6dXHHvXZsWHzfCM-TenM7AwUzYmHWEg7A/viewform?usp=sharing&ouid=117826206565758264681)
+
+
+## Upcoming Webinars 
+<p><strong>Watch this space</strong><span class="dots"></span></p>
 
 <style>
 @keyframes blink {
