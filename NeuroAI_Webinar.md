@@ -10,6 +10,9 @@ permalink: /NeuroAI_Webinar/
 ## Upcoming Webinars 
 <p><strong>Watch this space</strong><span class="dots"></span></p>
 
+Want to stay updated on our upcoming webinars?  
+[Click here to register and receive updates.](https://docs.google.com/forms/d/e/1FAIpQLSds3VRDTUKdkKd3g6dXHHvXZsWHzfCM-TenM7AwUzYmHWEg7A/viewform?usp=sharing&ouid=117826206565758264681)
+
 <style>
 @keyframes blink {
   0% { opacity: 0; }
