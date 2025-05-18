@@ -46,7 +46,3 @@ Want to stay updated on our upcoming webinars?
   **Time:**  9 AM EDT / 2 PM BST - 8th May 2025   
   **Recording:** [Youtube Channel](https://youtu.be/nmiGZo5uPH4))  
 
-
-
-
-*(Stay tuned for future talks!)*  
