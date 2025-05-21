@@ -44,5 +44,5 @@ Want to stay updated on our upcoming webinars?
 - **Speaker:** Andy Keller, Research Fellow, Kempner Institute at Harvard University  
   **Title:** *Computational Inductive Biases of Spatiotemporal Artificial Neural Networks*  
   **Time:**  9 AM EDT / 2 PM BST - 8th May 2025   
-  **Recording:** [Youtube Channel](https://youtu.be/nmiGZo5uPH4))  
+  **Recording:** [Youtube Channel](https://youtu.be/nmiGZo5uPH4) 
 
