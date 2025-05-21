@@ -18,6 +18,7 @@ Topics of interest include, but are not limited to:
 - **Neuronally-plausible learning regimes**
 - **Neuro-inspired reasoning and decision-making**
 - **Cognitive functions in AI**
+- **NeuroAI for AI Safety and Alignmen**
 
 
 The topics above are NOT exhaustive, and we encourage the submission of research related to how principles and insights from neuroscience can lead to better artificial intelligence and vice versa. Our aim is to foster groundbreaking interdisciplinary research that advances both fields.
