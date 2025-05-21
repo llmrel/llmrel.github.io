@@ -53,7 +53,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
 
-<!--
+
  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Tom Oxley.jpeg" alt="Tom Oxley" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -63,7 +63,7 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
       Synchron, University of Melbourne
     </div>
   </div>
--->
+
 
 <!--
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
