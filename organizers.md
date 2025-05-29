@@ -40,15 +40,15 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   </div>
 
 
- <!--  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Brett Kagan.jpg" alt="Brett J. Kagan" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+ <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Eva Dyer" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://www.corticallabs.com" style="color: blue;">Brett J. Kagan</a>
+        <a href="[https://www.corticallabs.com](https://dyerlab.gatech.edu/)" style="color: blue;">Eva Dyer</a>
       </strong><br>
-      Cortical Labs
+      GeorgiaTech Institute
     </div>
-  </div> -->
+  </div>
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
