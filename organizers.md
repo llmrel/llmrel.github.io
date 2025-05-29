@@ -44,7 +44,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Eva Dyer" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="[https://www.corticallabs.com](https://dyerlab.gatech.edu/)" style="color: blue;">Eva Dyer</a>
+        <a href="https://dyerlab.gatech.edu/" style="color: blue;">Eva Dyer</a>
       </strong><br>
       GeorgiaTech Institute
     </div>
