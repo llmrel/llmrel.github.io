@@ -32,7 +32,6 @@ Want to stay updated on our upcoming webinars?
   **Time:**  9 AM EDT / 2 PM BST   
   **Register Here:**  [Register for free](https://docs.google.com/forms/d/e/1FAIpQLSds3VRDTUKdkKd3g6dXHHvXZsWHzfCM-TenM7AwUzYmHWEg7A/viewform)   
   **Webinar Link:**  [Join the webinar](https://monash.zoom.us/j/82951066486?pwd=lMUL2Whj4jV11sQ9fs2lwMmO2R8F3w.1)    
-  **Recording:** Coming soon...  
 
 
 ## Past Webinars  
