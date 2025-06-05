@@ -12,7 +12,7 @@ Want to stay updated on our upcoming webinars?
 
 
 ## Upcoming Webinars 
-<p><strong>Watch this space</strong><span class="dots"></span></p>
+<!--!<p><strong>Watch this space</strong><span class="dots"></span></p>
 
 <style>
 @keyframes blink {
@@ -24,7 +24,7 @@ Want to stay updated on our upcoming webinars?
   content: ' ...';
   animation: blink 1s infinite steps(1, start);
 }
-</style>
+</style>--> 
 
 - **Speaker:** Cristina Savin, Assistant Professor, New York University  
   **Title:** *TBA*  
