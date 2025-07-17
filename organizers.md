@@ -13,7 +13,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Forough Habibollahi" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Desi R. Ivanova" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://foroughha.github.io/" style="color: blue;">Desi R. Ivanova</a>
@@ -34,7 +34,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Adeel Razi.jpeg" alt="Adeel Razi" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Adeel Razi.jpeg" alt="Harit Vishwakarma" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://www.adeelrazi.org/" style="color: blue;">Harit Vishwakarma</a>
@@ -43,37 +43,40 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     </div>
   </div>
 
+ Advisors (in alphabetical order.): 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Eva Dyer" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Wee Sun Lee" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://dyerlab.gatech.edu/" style="color: blue;">Eva Dyer</a>
+        <a href="https://dyerlab.gatech.edu/" style="color: blue;">Wee Sun Lee</a>
       </strong><br>
-      GeorgiaTech Institute
+      National University of Singapore
     </div>
-  </div>
+  </div>    
+</div>
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Anthony Zador.png" alt="Anthony Zador" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Anthony Zador.png" alt="Luke Ong" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://www.cshl.edu/research/faculty-staff/anthony-zador/" style="color: blue;">Anthony Zador</a>
+        <a href="https://www.cshl.edu/research/faculty-staff/anthony-zador/" style="color: blue;">Luke Ong</a>
       </strong><br>
-      Cold Spring Harbor Laboratory
+      Nanyang Technology University
     </div>
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Yoshua Bengio.jpeg" alt="Yoshua Bengio" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/Yoshua Bengio.jpeg" alt="Yee Whye Teh" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://yoshuabengio.org/" style="color: blue;">Yoshua Bengio</a>
+        <a href="https://yoshuabengio.org/" style="color: blue;">Yee Whye Teh</a>
       </strong><br>
-      MILA
+      Oxford
     </div>
   </div>
-</div>
 
 
 
