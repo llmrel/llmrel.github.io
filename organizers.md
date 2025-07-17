@@ -43,7 +43,7 @@ The workshop is organized by a core team of three early-career researchers whose
     </div>
   </div>
 
-This workshop is supported by three senior academics who serve as advisors. Our advisors include (in alphabetical order):
+This workshop is supported by three senior academics who serve as advisors. Our advisors include (listed alphabetically):
 
 
 
