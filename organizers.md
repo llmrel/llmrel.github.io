@@ -74,31 +74,5 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
 </div>
 
 
-<!-- # 我改的 -->
-<div class="circle-container">
-  <div class="circle-item">
-    <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Forough Habibollahi">
-    <div><a href="https://foroughha.github.io/">Forough Habibollahi</a><br>Cortical Labs</div>
-  </div>
-  <div class="circle-item">
-    <img src="{{ site.baseurl }}/images/organizers/Adeel Razi.jpeg" alt="Adeel Razi">
-    <div><a href="https://www.adeelrazi.org/">Adeel Razi</a><br>Monash University</div>
-  </div>
-  <div class="circle-item">
-    <img src="{{ site.baseurl }}/images/organizers/weiliu.jpg" alt="Wei Liu">
-    <div><a href="https://Weiliu876.github.io/">Wei Liu</a><br>NUS</div>
-  </div>
-  <div class="circle-item">
-    <img src="{{ site.baseurl }}/images/organizers/Eva Dyer.jpg" alt="Eva Dyer">
-    <div><a href="https://dyerlab.gatech.edu/">Eva Dyer</a><br>GeorgiaTech</div>
-  </div>
-  <div class="circle-item">
-    <img src="{{ site.baseurl }}/images/organizers/Anthony Zador.png" alt="Anthony Zador">
-    <div><a href="https://www.cshl.edu/research/faculty-staff/anthony-zador/">Anthony Zador</a><br>CSHL</div>
-  </div>
-  <div class="circle-item">
-    <img src="{{ site.baseurl }}/images/organizers/Yoshua Bengio.jpeg" alt="Yoshua Bengio">
-    <div><a href="https://yoshuabengio.org/">Yoshua Bengio</a><br>MILA</div>
-  </div>
-</div>
+
 
