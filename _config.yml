@@ -43,9 +43,10 @@
 # plugins: ['jekyll-paginate']
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
-title: "2nd NeuroAI Workshop @ NeurIPS:<br>Fusing Neuroscience and AI for Intelligent Solutions"
-date_text: "<span style='color: white;'>December, 2025</span>"
-where: "<span style='color: white;'>NeurIPS2025, San Diego Convention Center</span>"
-description: "Examining the fusion of neuroscience and AI: unlocking brain-inspired algorithms, advancing biological and artificial intelligence"
-url: "https://neuroai-workshop.github.io/"
+# title: "2nd NeuroAI Workshop @ NeurIPS:<br>Fusing Neuroscience and AI for Intelligent Solutions"
+title: "1st LLM Reliability Workshop @ AAAI: Quantifying Reliability in Language Models"
+date_text: "<span style='color: white;'>January, 2026</span>"
+where: "<span style='color: white;'>AAAI 2026, Singapore EXPO</span>"
+description: "Quantifying Reliability in Language Models"
+url: "https://llmrel.github.io/"
 baseurl: "" # the subpath of your site, e.g. /blog
