@@ -43,7 +43,7 @@ The workshop is organised by a core team of three early career researchers and s
     </div>
   </div>
 
-The workshop is organised by a core team of three early career researchers and supported by three senior academics who serve as advisors. Our organizers include (in alphabetical order):
+Our advisors include (in alphabetical order):
 
 
 
