@@ -10,15 +10,6 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
-  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/weiliu.jpg" alt="Wei Liu" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
-    <div style="font-size: 0.9em;">
-      <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://Weiliu876.github.io/" style="color: blue;">Wei Liu</a>
-      </strong><br>
-      National University of Singapore
-    </div>
-  </div>
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
@@ -30,6 +21,17 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
       Cortical Labs
     </div>
   </div>
+
+  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/organizers/weiliu.jpg" alt="Wei Liu" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
+    <div style="font-size: 0.9em;">
+      <strong style="font-size: 1.2em; color: blue;">
+        <a href="https://Weiliu876.github.io/" style="color: blue;">Wei Liu</a>
+      </strong><br>
+      National University of Singapore
+    </div>
+  </div>
+  
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/Adeel Razi.jpeg" alt="Adeel Razi" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
