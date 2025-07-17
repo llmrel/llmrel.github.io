@@ -8,7 +8,9 @@ permalink: /overview/
 
 Welcome to the NeurIPS 2025 NeuroAI Workshop! Building on the success of our inaugural event, this year’s workshop continues to bring together researchers and practitioners from neuroscience and artificial intelligence to deepen cross-disciplinary collaboration and insight.
 
-We are in a period of rapid progress in artificial intelligence, marked by the rise of large-scale models in language, vision, and multimodal learning (e.g., GPT-4o, Gemini, Sora). As these systems scale, there is growing interest in understanding and emulating the principles of biological intelligence. The field of NeuroAI --at the intersections of artificial and natural intelligence -- aims to bridge neuroscience and AI, leveraging insights from brain function to develop more robust, efficient, and interpretable models.
+Large Language Models (LLMs) have demonstrated remarkable \emph{capabilities} across a range of natural‑language and multi-modal tasks, including understanding, generation, and reasoning. 
+However, raw capability alone is not sufficient for real-world deployment. 
+The key barrier to adoption, particularly in  high‑risk domains such as healthcare, education or law, is __reliability__.
 
 This burgeoning NeuroAI field is anchored by several key research areas, including but not limited to:
 
