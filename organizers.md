@@ -74,7 +74,7 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
 </div>
 
 
-#我改的
+<!-- # 我改的 -->
 <div class="circle-container">
   <div class="circle-item">
     <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Forough Habibollahi">
