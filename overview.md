@@ -6,7 +6,7 @@ permalink: /overview/
 
 <!-- # Overview -->
 
-Welcome to the NeurIPS 2025 NeuroAI Workshop! Building on the success of our inaugural event, this year’s workshop continues to bring together researchers and practitioners from neuroscience and artificial intelligence to deepen cross-disciplinary collaboration and insight.
+Welcome to the AAAI 2026 Workshop! Building on the success of our inaugural event, this year’s workshop continues to bring together researchers and practitioners from neuroscience and artificial intelligence to deepen cross-disciplinary collaboration and insight.
 
 Large Language Models (LLMs) have demonstrated remarkable \emph{capabilities} across a range of natural‑language and multi-modal tasks, including understanding, generation, and reasoning. 
 However, raw capability alone is not sufficient for real-world deployment. 
