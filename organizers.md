@@ -6,7 +6,7 @@ permalink: /organizers/
 
 <!-- # Organizers -->
 
-The NeuroAI Workshop is organized by a team of dedicated professionals from the neuroscience and AI communities. Our organizers include:
+The NeuroAI Workshop is organized by a team of dedicated professionals from the neuroscience and AI communities. Our organizers include (in alphabetical order):
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
@@ -16,9 +16,9 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     <img src="{{ site.baseurl }}/images/organizers/Forough Habibollahi.jpg" alt="Forough Habibollahi" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://foroughha.github.io/" style="color: blue;">Forough Habibollahi</a>
+        <a href="https://foroughha.github.io/" style="color: blue;">Desi R. Ivanova</a>
       </strong><br>
-      Cortical Labs
+      Oxford
     </div>
   </div>
 
@@ -37,9 +37,9 @@ The NeuroAI Workshop is organized by a team of dedicated professionals from the 
     <img src="{{ site.baseurl }}/images/organizers/Adeel Razi.jpeg" alt="Adeel Razi" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://www.adeelrazi.org/" style="color: blue;">Adeel Razi</a>
+        <a href="https://www.adeelrazi.org/" style="color: blue;">Harit Vishwakarma</a>
       </strong><br>
-      Monash University
+      Oxford
     </div>
   </div>
 
