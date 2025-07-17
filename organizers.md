@@ -6,7 +6,7 @@ permalink: /organizers/
 
 <!-- # Organizers -->
 
-The workshop is organised by a core team of three early career researchers whose research covers various aspects of uncertainty quantification, robustness, and evaluation of machine learning models and LLMs. Our organizers include (in alphabetical order):
+The workshop is organized by a core team of three early-career researchers whose work spans various aspects of uncertainty quantification, robustness, and evaluation of machine learning models and LLMs. The organizers are (listed alphabetically):
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
