@@ -44,7 +44,7 @@
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
 # title: "2nd NeuroAI Workshop @ NeurIPS:<br>Fusing Neuroscience and AI for Intelligent Solutions"
-title: "1st Reliability quantification for LLMs Workshop @AAAI: Quantifying Reliability in Language Models"
+title: "1st Reliability Quantification for LLMs Workshop @AAAI: Quantifying Reliability in Language Models"
 date_text: "<span style='color: white;'>January, 2026</span>"
 where: "<span style='color: white;'>AAAI 2026, Singapore EXPO</span>"
 description: "Under Review"  
