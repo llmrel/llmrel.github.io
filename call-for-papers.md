@@ -8,13 +8,19 @@ permalink: /call-for-papers/
 
 
 
-**Overview and Scope**: Large Language Models (LLMs) such as GPT-4, Claude, and Gemini have demonstrated remarkable capabilities across a wide range of natural language processing tasks. However, as these models are increasingly integrated into high-stakes applications—such as healthcare, law, education, and scientific research—their reliability and trustworthiness have become critical concerns.
+Overview and Scope: 
+====
+
+Large Language Models (LLMs) such as GPT-4, Claude, and Gemini have demonstrated remarkable capabilities across a wide range of natural language processing tasks. However, as these models are increasingly integrated into high-stakes applications—such as healthcare, law, education, and scientific research—their reliability and trustworthiness have become critical concerns.
 
 Uncertainty quantification (UQ) is an essential component in building reliable AI systems. Understanding and representing what a model "does not know" is key to ensuring robust decision-making, improving model calibration, mitigating hallucinations, and enabling human-AI collaboration.
 
 This workshop aims to bring together researchers and practitioners from academia and industry to discuss recent advances, challenges, and future directions related to uncertainty estimation and reliability in LLMs. We encourage interdisciplinary submissions from the machine learning, NLP, AI safety, and HCI communities.
 
-**Topic of Interest**: We welcome original contributions on topics including, but not limited to:
+Topic of Interest: 
+====
+
+We welcome original contributions on topics including, but not limited to:
 
 1. Techniques for uncertainty quantification in LLMs (e.g., Bayesian methods, ensembles, MC Dropout, conformal prediction)
 
@@ -36,7 +42,8 @@ This workshop aims to bring together researchers and practitioners from academia
 
 1. Applications of UQ in downstream tasks (e.g., summarization, question answering, code generation)
 
-**Submission Details**: 
+Submission Details: 
+====
 
 We invite submissions of the following types:
 
@@ -48,7 +55,8 @@ We invite submissions of the following types:
 
 All submissions should be formatted using the AAAI 2026 author kit and will be peer-reviewed by the program committee. Accepted papers will be presented either as talks or posters. The workshop will be non-archival, and authors are free to submit their work to other venues.
 
-**Important Dates**:
+Important Dates:
+====
 
 TBD
 
