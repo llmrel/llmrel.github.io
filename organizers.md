@@ -54,6 +54,8 @@ The workshop is organised by a core team of three early career researchers and s
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
+
+  
  <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/images/organizers/leews.jpg" alt="Wee Sun Lee" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
@@ -63,7 +65,7 @@ The workshop is organised by a core team of three early career researchers and s
       NUS
     </div>
   </div>    
-</div>
+
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
@@ -85,7 +87,8 @@ The workshop is organised by a core team of three early career researchers and s
       Oxford
     </div>
   </div>
-
+  
+</div>
 
 
 
