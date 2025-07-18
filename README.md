@@ -53,5 +53,5 @@ gem 'kramdown-parser-gfm'
 
 It is under [the MIT license](/LICENSE).
 
-
+### Acknowledgements  
 This page is built using resources from [neuroai-workshop](https://github.com/neuroai-workshop), under the MIT License.
