@@ -28,7 +28,7 @@ The workshop is organized by a core team of three early-career researchers whose
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://Weiliu876.github.io/" style="color: blue;">Wei Liu</a>
       </strong><br>
-      National University of Singapore
+      NUS
     </div>
   </div>
   
@@ -39,7 +39,7 @@ The workshop is organized by a core team of three early-career researchers whose
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://harit7.github.io/" style="color: blue;">Harit Vishwakarma</a>
       </strong><br>
-      Oxford
+      Candidate at UW Madison
     </div>
   </div>
 
@@ -54,7 +54,7 @@ This workshop is supported by three senior academics who serve as advisors. Our 
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://www.comp.nus.edu.sg/~leews/" style="color: blue;">Wee Sun Lee</a>
       </strong><br>
-      National University of Singapore
+      NUS
     </div>
   </div>    
 </div>
@@ -66,7 +66,7 @@ This workshop is supported by three senior academics who serve as advisors. Our 
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://www.cshl.edu/research/faculty-staff/anthony-zador/" style="color: blue;">Luke Ong</a>
       </strong><br>
-      Nanyang Technology University
+      NTU
     </div>
   </div>
 
