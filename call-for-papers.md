@@ -61,7 +61,7 @@ All submissions should be formatted using the AAAI 2026 author kit and will be p
 TBD
 
 
-For questions or inquiries, please contact us at: desi.ivanova@stats.ox.ac.uk, weiliumg@gmail.com.
+For questions or inquiries, please contact us at: desi.ivanova@stats.ox.ac.uk, weiliumg@gmail.com, hvishwakarma@cs.wisc.edu .
 
 
 
