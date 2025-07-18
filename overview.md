@@ -22,7 +22,7 @@ The goal is to sharpen our understanding of what reliability means for LLMs and 
 1. **Benchmarking and evaluation**. How should reliability be measured and evaluated in practice? What are the limitations of current benchmarks, and how can we develop more robust evaluation frameworks?
 
 
-For further information and should you have any inquiries, please contact: desi.ivanova@stats.ox.ac.uk, weiliumg@gmail.com.
+For further information and should you have any inquiries, please contact: desi.ivanova@stats.ox.ac.uk, weiliumg@gmail.com, hvishwakarma@cs.wisc.edu.
 
 
 
