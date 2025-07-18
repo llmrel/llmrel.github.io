@@ -46,6 +46,7 @@ The workshop is organised by a core team of three early career researchers and s
       UW Madison
     </div>
   </div>
+  </div>
 
 ### Advisors (listed alphabetically):
 
