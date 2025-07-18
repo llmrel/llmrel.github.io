@@ -39,7 +39,7 @@ The workshop is organized by a core team of three early-career researchers whose
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://harit7.github.io/" style="color: blue;">Harit Vishwakarma</a>
       </strong><br>
-      Candidate at UW Madison
+      UW Madison
     </div>
   </div>
 
