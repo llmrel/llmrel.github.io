@@ -9,7 +9,7 @@ permalink: /organizers/
 <!--The workshop is organized by a core team of three early-career researchers whose work spans various aspects of uncertainty quantification, robustness, and evaluation of machine learning models and LLMs. The organizers are (listed alphabetically):-->
 The workshop is organised by a core team of three early career researchers and supported by three senior academics who serve as advisors. 
 
-### Organizers (listed alphabetically):
+**Organizers (listed alphabetically)**:
 
 
 
@@ -48,7 +48,7 @@ The workshop is organised by a core team of three early career researchers and s
   </div>
   </div>
 
-### Advisors (listed alphabetically):
+**Advisors (listed alphabetically)**:
 
 
 
