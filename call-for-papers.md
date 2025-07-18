@@ -6,36 +6,56 @@ permalink: /call-for-papers/
 
 <!-- # Call for Papers -->
 
-We invite researchers in the field of NeuroAI to submit their papers to this workshop. The workshop papers are non-archival and authors are also encouraged to submit short versions of their NeurIPS main conference submissions concurrently to this workshop.
-
-Submissions should adhere to a page limit of 5 pages (excluding references and supplementary materials) and must use the [NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). All submissions must be anonymized and may not contain any identifying information that may violate the **double-blind** reviewing policy.
-
-Topics of interest include, but are not limited to:
 
 
-- **Neuro-inspired Computations** 
-- **Explainable AI in Neuroscience** 
-- **NeuroAI for Safety, Alignment, and Intentional Control** 
-- **Neuroadaptive Interfaces for Human-AI Co-Cognition** 
-- **Neuro-Cognitive Models for Reasoning and Decision-Making** 
-- **Self-supervised Systems in NeuroAI** 
+**Overview and Scope**: Large Language Models (LLMs) such as GPT-4, Claude, and Gemini have demonstrated remarkable capabilities across a wide range of natural language processing tasks. However, as these models are increasingly integrated into high-stakes applications—such as healthcare, law, education, and scientific research—their reliability and trustworthiness have become critical concerns.
+
+Uncertainty quantification (UQ) is an essential component in building reliable AI systems. Understanding and representing what a model "does not know" is key to ensuring robust decision-making, improving model calibration, mitigating hallucinations, and enabling human-AI collaboration.
+
+This workshop aims to bring together researchers and practitioners from academia and industry to discuss recent advances, challenges, and future directions related to uncertainty estimation and reliability in LLMs. We encourage interdisciplinary submissions from the machine learning, NLP, AI safety, and HCI communities.
+
+**Topic of Interest**: We welcome original contributions on topics including, but not limited to:
+
+1. Techniques for uncertainty quantification in LLMs (e.g., Bayesian methods, ensembles, MC Dropout, conformal prediction)
+
+1. Calibration and confidence estimation in LLM outputs
+
+1. Detecting and mitigating hallucinations and overconfident failures
+
+1. Benchmarking LLM reliability across tasks and domains
+
+1. Epistemic vs aleatoric uncertainty in language models
+
+1. Uncertainty-aware prompting and decoding strategies
+
+1. Evaluating trust and interpretability in the presence of uncertainty
+
+1. Human-AI collaboration and decision-making with uncertain LLMs
+
+1. Robustness under distributional shifts and adversarial inputs
+
+1. Applications of UQ in downstream tasks (e.g., summarization, question answering, code generation)
+
+**Submission Details**: 
+
+We invite submissions of the following types:
+
+1. **Full Papers** (4–8 pages, excluding references): Novel research contributions with empirical or theoretical insights.
+
+1. **Extended Abstracts** (2 pages): Work-in-progress, preliminary results, or visionary ideas.
+
+1. **Demo Proposals** (2 pages): Interactive tools or systems demonstrating uncertainty-aware LLM applications.
+
+All submissions should be formatted using the AAAI 2026 author kit and will be peer-reviewed by the program committee. Accepted papers will be presented either as talks or posters. The workshop will be non-archival, and authors are free to submit their work to other venues.
+
+**Important Dates**:
+
+TBD
 
 
-The topics above are NOT exhaustive, and we encourage the submission of research related to how principles and insights from neuroscience can lead to better artificial intelligence and vice versa. Our aim is to foster groundbreaking interdisciplinary research that advances both fields.
+For questions or inquiries, please contact us at: desi.ivanova@stats.ox.ac.uk, weiliumg@gmail.com.
 
-We strongly discourage the presentation of already completed and/or published machine learning work including those published in previous NeurIPS main-track conferences, as our focus is on showcasing innovative and ongoing research. 
 
-Please note submissions that solely explore ML/AI algorithms without an explicit link to neuroscience are out of scope.
 
-**Submission Deadline:** <span style="color: red;">Extended to 23:59 August 22, 2025 (AoE)</span>
 
-**Notification of Acceptance:** September 22, 2025
-
-Submit your papers through our [submission portal](...).
-
-The top 3 highly scored submissions will be chosen for spotlight talks.
-
-**Reviewer Nomination Form:** [Google Form](https://forms.gle/sEAeHx1svWBgbSMU7)
-
-For further information and should you have any inquiries, please contact: [neuroai.neurips2024@gmail.com](mailto:neuroai.neurips2024@gmail.com)
 
