@@ -13,7 +13,7 @@ The workshop is organized by a core team of three early-career researchers whose
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/Desi.jpg" alt="Desi R. Ivanova" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/desi.jpg" alt="Desi R. Ivanova" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://desirivanova.com/" style="color: blue;">Desi R. Ivanova</a>
@@ -34,7 +34,7 @@ The workshop is organized by a core team of three early-career researchers whose
   
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/harit.jpeg" alt="Harit Vishwakarma" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/harit.jpg" alt="Harit Vishwakarma" style="width: 200px; height: 210px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://harit7.github.io/" style="color: blue;">Harit Vishwakarma</a>
@@ -71,7 +71,7 @@ This workshop is supported by three senior academics who serve as advisors. Our 
   </div>
 
   <div style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box; text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/organizers/yee.jpeg" alt="Yee Whye Teh" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/organizers/yee.jpg" alt="Yee Whye Teh" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
         <a href="https://www.stats.ox.ac.uk/~teh/" style="color: blue;">Yee Whye Teh</a>
