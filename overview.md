@@ -11,7 +11,7 @@ However, raw capability alone is not sufficient for real-world deployment.
 The key barrier to adoption, particularly in  high‑risk domains such as healthcare, education or law, is _reliability_.This workshop will bring together researchers and practitioners to explore existing and emerging **quantitative approaches for defining, evaluating, and improving LLM reliability**.
 The goal is to sharpen our understanding of what reliability means for LLMs and to develop practical tools and benchmarks to enable confident deployment at scale.
 
-#### Key issues and questions
+#### Key issues and questions:
 
 1. **Defining and measuring reliability in LLM contexts**. How should reliability be conceptualised for stochastic, learned systems? What metrics and evaluation frameworks are most appropriate for capturing different aspects of unreliable behaviour?
 1. **Identifying and quantifying sources of unreliability**. These include (but are not limited to) hallucinations, overconfidence, prompt sensitivity, poor calibration, and brittleness to domain or distribution shift. How can we systematically characterise and measure failure modes?
