@@ -72,7 +72,7 @@ The workshop is organised by a core team of three early career researchers and s
     <img src="{{ site.baseurl }}/images/organizers/Anthony Zador.png" alt="Luke Ong" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://www.cshl.edu/research/faculty-staff/anthony-zador/" style="color: blue;">Luke Ong</a>
+        <a href="https://www3.ntu.edu.sg/home/luke.ong/" style="color: blue;">Luke Ong</a>
       </strong><br>
       NTU
     </div>
