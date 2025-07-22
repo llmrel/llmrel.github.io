@@ -20,27 +20,21 @@ This workshop aims to bring together researchers and practitioners from academia
 ### Topic of Interest: 
 
 
-We welcome original contributions on topics including, but not limited to:
+We welcome original contributions from probabilistic machine learning, statistics, engineering, NLP, HCI, and related fields. Submissions may address (but are not limited to) the following topics:
 
-1. Techniques for uncertainty quantification in LLMs (e.g., Bayesian methods, ensembles, MC Dropout, conformal prediction)
 
-1. Calibration and confidence estimation in LLM outputs
+    1. **Defining and measuring reliability in LLM contexts.** How should reliability be conceptualised for stochastic, learned systems? What metrics and evaluation frameworks are most appropriate for capturing different aspects of unreliable behaviour?
 
-1. Detecting and mitigating hallucinations and overconfident failures
+    1. **Identifying and quantifying sources of unreliability.** These include (but are not limited to) hallucinations, overconfidence, prompt sensitivity, poor calibration, and brittleness to domain or distribution shift. How can we systematically characterise and measure failure modes?
 
-1. Benchmarking LLM reliability across tasks and domains
+    1. **Detecting or predicting unreliable behaviour.** What methods can identify when an LLM is likely to fail or produce unreliable outputs? For example, methods for uncertainty estimation and calibration, failure detection and prediction, and so on.
 
-1. Epistemic vs aleatoric uncertainty in language models
+    1. **Reliability focused training and alignment.** Can we design training objectives, fine-tuning methods, or alignment (post-training) techniques to encourage reliability? Is there a trade-off between capabilities and reliability?
 
-1. Uncertainty-aware prompting and decoding strategies
+    1. Practical deployment considerations.** How can reliability signals be integrated into decision-making systems? What are the human factors and UX considerations for communicating (un)reliability to end users?
 
-1. Evaluating trust and interpretability in the presence of uncertainty
+    1. Benchmarking and evaluation.** How should reliability be measured and evaluated in practice? What are the limitations of current benchmarks, and how can we develop more robust evaluation frameworks?
 
-1. Human-AI collaboration and decision-making with uncertain LLMs
-
-1. Robustness under distributional shifts and adversarial inputs
-
-1. Applications of UQ in downstream tasks (e.g., summarization, question answering, code generation)
 
 ### Submission Details: 
 
