@@ -12,9 +12,9 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
     <img src="{{ site.baseurl }}/images/organizers/Karl Friston.jpg" alt="Karl Friston" style="width: 175px; height: 200px; border-radius: 20%; margin-bottom: 10px;">
     <div style="font-size: 0.9em;">
       <strong style="font-size: 1.2em; color: blue;">
-        <a href="https://en.wikipedia.org/wiki/Karl_J._Friston" style="color: blue;">Karl Friston</a>
+        <a href="https://www.comp.nus.edu.sg/cs/people/mohan/" style="color: blue;">Mohan Kankanhalli</a>
       </strong><br>
-      University College London 
+      NUS 
     </div>
   </div>
 
