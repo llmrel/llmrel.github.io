@@ -40,11 +40,11 @@ We welcome original contributions from probabilistic machine learning, statistic
 
 We invite submissions of the following types:
 
-1. **Full Papers** (4–8 pages, excluding references): Novel research contributions with empirical or theoretical insights.
+- **Full Papers** (4–8 pages, excluding references): Novel research contributions with empirical or theoretical insights.
 
-1. **Extended Abstracts** (2 pages): Work-in-progress, preliminary results, or visionary ideas.
+- **Extended Abstracts** (2 pages): Work-in-progress, preliminary results, or visionary ideas.
 
-1. **Demo Proposals** (2 pages): Interactive tools or systems demonstrating uncertainty-aware LLM applications. Description of interactive tools or applications related to LLM reliability or uncertainty. 
+- **Demo Proposals** (2 pages): Interactive tools or systems demonstrating uncertainty-aware LLM applications. Description of interactive tools or applications related to LLM reliability or uncertainty. 
     The submission must include a link to the codebase that implements the tool/application or, if hosted online, a link to the live system.
 
 Please submit your contributions via OpenReview. All submissions should be anonymous and formatted using the AAAI 2026 author kit. 
@@ -58,10 +58,12 @@ The workshop will be non-archival, and authors are free to submit their work to 
 
 **LLM use policy**. In the preparation of manuscripts, the use of LLMs is only allowed as a general-purpose writing assist tool.
 
-### Important Dates:
+### Important Dates (Tentative):
 
-
-TBD
+- **Submission Deadline**: October 15, 2025
+- **Notification of Acceptance**: November 5, 2025   
+- **Camera-Ready Deadline**: December 10, 2025
+- **Workshop Date**: January [TBD -- 26 or 27], 2026.
 
 
 For questions or inquiries, please contact us at: desi.ivanova@stats.ox.ac.uk, weiliumg@gmail.com, hvishwakarma@cs.wisc.edu .
