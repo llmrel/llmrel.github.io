@@ -54,7 +54,16 @@ We invite submissions of the following types:
 1. **Demo Proposals** (2 pages): Interactive tools or systems demonstrating uncertainty-aware LLM applications. Description of interactive tools or applications related to LLM reliability or uncertainty. 
     The submission must include a link to the codebase that implements the tool/application or, if hosted online, a link to the live system.
 
-All submissions should be formatted using the AAAI 2026 author kit and will be peer-reviewed by the program committee. Accepted papers will be presented either as talks or posters. The workshop will be non-archival, and authors are free to submit their work to other venues.
+Please submit your contributions via OpenReview. All submissions should be anonymous and formatted using the AAAI 2026 author kit. 
+We welcome submissions of original, unpublished material, as well as work that is currently under review or published within the past six months.
+
+**Accepted papers**.  The workshop is non-archival, however, the accepted papers will be made public via OpenReview.
+All accepted papers will be presented as posters and the top contributions will also be presented as spoltlight presentations. 
+The workshop will be non-archival, and authors are free to submit their work to other venues.
+
+**Reviewing**. Authors should nominate at least one person to review submissions, with an expected reviewing load of at most 3 papers.
+
+**LLM use policy**. In the preparation of manuscripts, the use of LLMs is only allowed as a general-purpose writing assist tool.
 
 ### Important Dates:
 
