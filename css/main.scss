@@ -322,10 +322,9 @@ body.home-page .post > div:last-child {
 }
 
 .person-card img {
-  width: 220px !important;
-  height: 220px !important;
+  width: 240px !important;
+  height: 240px !important;
   object-fit: cover !important;
-  object-position: center top !important;
   border-radius: 15px !important;
   margin-bottom: 20px !important;
   border: none !important;
@@ -382,10 +381,9 @@ body.home-page .post > div:last-child {
 
 /* 强制覆盖任何内联样式 */
 .person-card img[style] {
-  width: 220px !important;
-  height: 220px !important;
+  width: 240px !important;
+  height: 240px !important;
   object-fit: cover !important;
-  object-position: center top !important;
   border-radius: 15px !important;
   border: none !important;
 }
@@ -430,10 +428,9 @@ body.home-page .post > div:last-child {
   
   .person-card img,
   .person-card img[style] {
-    width: 180px !important;
-    height: 180px !important;
+    width: 200px !important;
+    height: 200px !important;
     object-fit: cover !important;
-    object-position: center top !important;
     border-radius: 12px !important;
   }
   
@@ -482,10 +479,9 @@ body.home-page .post > div:last-child {
   
   .person-card img,
   .person-card img[style] {
-    width: 200px !important;
-    height: 200px !important;
+    width: 220px !important;
+    height: 220px !important;
     object-fit: cover !important;
-    object-position: center top !important;
     border-radius: 10px !important;
   }
 }
@@ -493,10 +489,9 @@ body.home-page .post > div:last-child {
 @media all and (max-width: 480px) {
   .person-card img,
   .person-card img[style] {
-    width: 160px !important;
-    height: 160px !important;
+    width: 180px !important;
+    height: 180px !important;
     object-fit: cover !important;
-    object-position: center top !important;
     border-radius: 8px !important;
   }
   
