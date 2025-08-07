@@ -189,7 +189,7 @@ body {
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-  margin: 40px 0;
+  margin: 20px 0 40px 0;
   text-align: center;
 }
 
@@ -217,6 +217,26 @@ body {
 
 .conference-details strong {
   color: #e25440;
+}
+
+/* 主页列表样式 */
+body.home-page .post ul {
+  text-align: left;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+body.home-page .post ul li {
+  padding: 5px 0;
+  color: #666;
+}
+
+/* 主页特殊section样式 */
+body.home-page .post > div:last-child {
+  background: #f0f8ff;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 30px;
 }
 
 /* === Organizers 和 Speakers 页面优化样式 === */
