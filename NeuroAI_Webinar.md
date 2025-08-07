@@ -1,6 +1,6 @@
 ---
 title: NeuroAI Emerging Leaders Webinar Series
-layout: default
+layout: page
 permalink: /NeuroAI_Webinar/
 ---
 
