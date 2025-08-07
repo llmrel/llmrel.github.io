@@ -61,7 +61,26 @@
 </head>
 <body>
 
-
+<!-- 顶部导航栏 -->
+<nav class="top-navbar">
+  <div class="top-navbar-content">
+    <a href="{{ site.baseurl }}/" class="logo">LLMRel Workshop</a>
+    <ul class="top-navbar-navigation">
+      <li class="nav-item"><a href="{{ site.baseurl }}/overview/">Overview</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/organizers/">Organizers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/speakers/">Speakers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/call-for-papers/">Call for Papers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/travel awards/">Travel Awards</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/schedules/">Schedule</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/accepted-papers/">Accepted Papers</a></li>
+      <li class="nav-item">
+        <a href="{{ site.baseurl }}/NeuroAI_Webinar/" class="webinar-highlight">
+          Webinar Series <span class="new-badge">UPCOMING</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
 
 <!-- Mobile menu icon -->
 <span class="mobile btn-mobile-menu">
@@ -86,8 +105,8 @@
 
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
-        <!-- Navigation -->
-        <div class="navigation-wrapper">
+        <!-- 保留原有的导航结构，但隐藏在大屏幕上，只在移动端显示 -->
+        <div class="navigation-wrapper" style="display: none;">
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/overview/" class="nav-button">Overview</a></li>
@@ -114,8 +133,6 @@
     <div class="panel-cover--overlay"></div>
   </div>
 </header>
-
-
 
 <footer class="footer">
   <span class="footer__copyright">© Resources from Moein Khajehnejad</span>
