@@ -1,57 +1,28 @@
-# jekyll-uno
+# 1st Reliability Quantification for LLMs Workshop @AAAI
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+Welcome to the official website for the 1st Reliability Quantification for LLMs Workshop at AAAI 2026.
 
-> :warning:
-  This theme requires ruby and rubygems installed
+## Workshop Information
 
-### Features
+- **Date**: January, 2026
+- **Location**: AAAI 2026, Singapore EXPO
+- **Status**: Under Review
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
+## About
 
----
+This workshop focuses on developing methods and metrics for quantifying reliability in Large Language Models. Our goal is to bring together researchers and practitioners to discuss challenges and solutions in making Large Language Models more reliable and trustworthy.
 
-### Install and Test
+## Website
 
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
+Visit our website at: https://llmrel.github.io/
 
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
+## Navigation
 
-If you would like to run without using the `github-pages` gem, update your Gemfile to the following:
+- Overview
+- Organizers
+- Speakers
+- Call for Papers
+- Schedule
+- Accepted Papers
 
-```
-source 'https://rubygems.org'
-gem 'jekyll-paginate'
-gem 'jekyll-watch'
-gem 'kramdown'
-gem 'kramdown-parser-gfm'
-```
----
-
-### Demo and Download
-
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![jekyll-uno - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
-
-### Acknowledgements  
-This page is built using resources from [neuroai-workshop](https://github.com/neuroai-workshop), under the MIT License.
+Last updated: December 2024
