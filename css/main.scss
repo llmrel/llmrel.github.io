@@ -106,19 +106,9 @@ body.with-background .post-container p {
 }
 
 /* === 为主页特殊处理 === */
-/* 在主页：显示面板作为hero section，但调整布局 */
+/* 在主页：隐藏面板以避免内容重复 */
 body.home-page .panel-cover {
-  display: block !important;
-  position: relative !important;
-  height: auto !important;
-  width: 100% !important;
-  max-width: none !important;
-  top: 70px !important;
-  margin-bottom: 40px;
-}
-
-body.home-page .panel-main {
-  padding: 60px 0;
+  display: none !important;
 }
 
 body.home-page .content-wrapper {
