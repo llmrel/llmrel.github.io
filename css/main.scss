@@ -196,7 +196,15 @@ body {
 .conference-details h2 {
   color: #333;
   font-size: 2.2em;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  line-height: 1.3;
+}
+
+.conference-details h3 {
+  color: #666;
+  font-size: 1.4em;
+  margin-bottom: 30px;
+  font-weight: normal;
   line-height: 1.3;
 }
 
@@ -204,6 +212,7 @@ body {
   color: #666;
   font-size: 1.1em;
   margin: 15px 0;
+  line-height: 1.5;
 }
 
 .conference-details strong {
@@ -485,3 +494,4 @@ body {
 .previous-years-dropdown .dropdown-menu li a:hover {
   background-color: #333;
 }
+
