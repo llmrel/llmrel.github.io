@@ -59,8 +59,28 @@ pre.highlight code,
   border-radius:100%;
 }
 
-/* === 完全隐藏侧边面板 === */
-.panel-cover {
+/* === 为主页特殊处理 === */
+/* 在主页：显示面板作为hero section，但调整布局 */
+body.home-page .panel-cover {
+  display: block !important;
+  position: relative !important;
+  height: auto !important;
+  width: 100% !important;
+  max-width: none !important;
+  top: 70px !important;
+  margin-bottom: 40px;
+}
+
+body.home-page .panel-main {
+  padding: 60px 0;
+}
+
+body.home-page .content-wrapper {
+  margin-top: 0 !important;
+}
+
+/* 在其他页面：完全隐藏面板 */
+body:not(.home-page) .panel-cover {
   display: none !important;
 }
 
@@ -161,6 +181,33 @@ pre.highlight code,
 /* 为内容添加顶部间距，避免被顶部导航栏遮挡 */
 body {
   padding-top: 70px;
+}
+
+/* === 主页内容样式 === */
+.conference-details {
+  background: #f9f9f9;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin: 40px 0;
+  text-align: center;
+}
+
+.conference-details h2 {
+  color: #333;
+  font-size: 2.2em;
+  margin-bottom: 20px;
+  line-height: 1.3;
+}
+
+.conference-details p {
+  color: #666;
+  font-size: 1.1em;
+  margin: 15px 0;
+}
+
+.conference-details strong {
+  color: #e25440;
 }
 
 /* === Organizers 和 Speakers 页面优化样式 === */
@@ -265,6 +312,10 @@ body {
     padding-top: 0;
   }
   
+  body.home-page .panel-cover {
+    top: 0 !important;
+  }
+  
   .content-wrapper__inner {
     padding: 20px 15px;
   }
@@ -284,6 +335,15 @@ body {
     width: 180px !important;
     height: 180px !important;
     border-radius: 12px !important;
+  }
+  
+  .conference-details {
+    padding: 25px;
+    margin: 20px 0;
+  }
+  
+  .conference-details h2 {
+    font-size: 1.8em;
   }
 }
 
