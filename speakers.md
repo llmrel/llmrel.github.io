@@ -33,25 +33,4 @@ permalink: /speakers/
 
 
 
-## Talk Titles
 
-- **Mohan Kankanhalli:** "TBA"
-- **Doris Tsao:** "Representing the visual world"
-- **Evelina Fedorenko:** "Language and thought in brains and machines"
-- **Tom Oxley:** "Towards abstracting mechanisms underlying cognitions directly from scalable neural recordings"
-
-## Panelists
-
-<p><strong>Watch this space. Planning for another exciting panel discussion is underway </strong><span class="dots"></span></p>
-
-<style>
-@keyframes blink {
-  0% { opacity: 0; }
-  33% { opacity: 1; }
-  66% { opacity: 0; }
-}
-.dots::after {
-  content: ' ...';
-  animation: blink 1s infinite steps(1, start);
-}
-</style>
