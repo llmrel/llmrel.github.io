@@ -1,9 +1,31 @@
-# title: "2nd NeuroAI Workshop @ NeurIPS:<br>Fusing Neuroscience and AI for Intelligent Solutions"
+# Site settings
 title: "1st Reliability Quantification for LLMs Workshop @AAAI: Quantifying Reliability in Language Models"
+description: "Under Review"
+url: "https://llmrel.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Workshop specific settings
 date_text: "<span style='color: white;'>January, 2026</span>"
 date: "January, 2026"
 where: "<span style='color: white;'>AAAI 2026, Singapore EXPO</span>"
 location: "AAAI 2026, Singapore EXPO"
-description: "Under Review"  
-url: "https://llmrel.github.io/"
-baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
