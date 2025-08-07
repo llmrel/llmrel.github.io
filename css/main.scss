@@ -59,7 +59,7 @@ pre.highlight code,
   border-radius:100%;
 }
 
-/* 顶部导航栏样式 */
+/* === 顶部导航栏样式 === */
 .top-navbar {
   position: fixed;
   top: 0;
@@ -83,17 +83,18 @@ pre.highlight code,
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 1200px;
+  max-width: 1400px;
   width: 100%;
 }
 
 .top-navbar .logo {
   margin-right: 30px;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: bold;
   color: white;
   text-decoration: none;
   letter-spacing: 1px;
+  white-space: nowrap;
 }
 
 .top-navbar .logo:hover {
@@ -161,22 +162,36 @@ body {
   height: calc(100vh - 70px);
 }
 
+/* 隐藏原有的侧边导航栏在桌面端 */
+@media (min-width: 961px) {
+  .navigation-wrapper {
+    display: none !important;
+  }
+}
+
 /* 响应式设计 */
 @media all and (max-width: 960px) {
+  /* 在移动端隐藏顶部导航栏，使用原有的移动端菜单 */
   .top-navbar {
-    height: 60px;
-    padding: 0 15px;
+    display: none;
   }
   
   body {
-    padding-top: 60px;
+    padding-top: 0;
   }
   
   .panel-cover {
-    top: 60px;
-    height: calc(100vh - 60px);
+    top: 0;
+    height: 100vh;
   }
   
+  /* 显示原有的移动端导航 */
+  .navigation-wrapper {
+    display: none; /* 默认隐藏，通过JS控制显示 */
+  }
+}
+
+@media all and (max-width: 1200px) and (min-width: 961px) {
   .top-navbar .logo {
     font-size: 1em;
     margin-right: 20px;
@@ -188,39 +203,18 @@ body {
   }
   
   .top-navbar-navigation {
-    gap: 2px;
+    gap: 3px;
   }
 }
 
-@media all and (max-width: 768px) {
-  .top-navbar-content {
-    flex-direction: column;
-    height: auto;
-    padding: 10px 0;
-  }
-  
-  .top-navbar {
-    height: auto;
-    min-height: 80px;
-  }
-  
-  body {
-    padding-top: 80px;
-  }
-  
-  .panel-cover {
-    top: 80px;
-    height: calc(100vh - 80px);
-  }
-  
-  .top-navbar .logo {
-    margin-right: 0;
-    margin-bottom: 10px;
+@media all and (max-width: 1000px) and (min-width: 961px) {
+  .top-navbar-navigation .nav-item a {
+    padding: 6px 10px;
+    font-size: 0.75em;
   }
   
   .top-navbar-navigation {
-    flex-wrap: wrap;
-    justify-content: center;
+    gap: 2px;
   }
 }
 
@@ -258,7 +252,6 @@ body {
     50% { opacity: 0.6; }
     100% { opacity: 1; }
 }
-
 
 /* Dropdown container */
 .navigation__item.dropdown {
@@ -298,8 +291,6 @@ body {
 .dropdown-menu li a:hover {
   background-color: #333;
 }
-
-
 
 .previous-years-dropdown {
   position: absolute;
