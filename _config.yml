@@ -28,7 +28,7 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'previous_years/', 'humans.txt', '_posts/', 'feed.xml', 'sitemap.xml', 'categories.md', 'tags.md', 'docker-compose.yml']
 
 # GitHub Pages settings
 github: [metadata]
