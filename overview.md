@@ -2,6 +2,7 @@
 layout: page
 title: "Overview"
 permalink: /overview/
+body_class: with-background
 ---
 
 <!-- # Overview -->
