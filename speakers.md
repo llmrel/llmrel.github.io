@@ -4,7 +4,7 @@ title: "Speakers"
 permalink: /speakers/
 ---
 
-Meet the speakers who will be presenting at the NeuroAI Workshop. We have a diverse lineup of experts from the fields of neuroscience and artificial intelligence.
+(More speakers will come soon)
 
 <div class="person-grid">
   <div class="person-card">
@@ -24,21 +24,14 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div class="person-card">
-    <img src="{{ site.baseurl }}/images/organizers/Evelina Fedorenko.jpeg" alt="Evelina Fedorenko">
+    <img src="{{ site.baseurl }}/images/organizers/krdc.jpg" alt="Katie Driggs-Campbell">
     <div class="name">
-      <a href="https://bcs.mit.edu/directory/evelina-fedorenko">Evelina Fedorenko</a>
+      <a href="https://krdc.web.illinois.edu/">Katie Driggs-Campbell</a>
     </div>
-    <div class="affiliation">MIT McGovern Institute</div>
+    <div class="affiliation">UIUC</div>
   </div>
 
-  <div class="person-card">
-    <img src="{{ site.baseurl }}/images/organizers/Tom Oxley.jpeg" alt="Tom Oxley">
-    <div class="name">
-      <a href="https://findanexpert.unimelb.edu.au/profile/439055-thomas-oxley">Tom Oxley</a>
-    </div>
-    <div class="affiliation">Synchron, University of Melbourne</div>
-  </div>
-</div>
+
 
 ## Talk Titles
 
