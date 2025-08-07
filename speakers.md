@@ -16,11 +16,11 @@ Meet the speakers who will be presenting at the NeuroAI Workshop. We have a dive
   </div>
 
   <div class="person-card">
-    <img src="{{ site.baseurl }}/images/organizers/DorisTsao.jpeg" alt="Doris Tsao">
+    <img src="{{ site.baseurl }}/images/organizers/WeijieSu.jpg" alt="Weijie Su">
     <div class="name">
-      <a href="https://vcresearch.berkeley.edu/faculty/doris-tsao">Doris Tsao</a>
+      <a href="https://www.weijie-su.com/">Weijie Su</a>
     </div>
-    <div class="affiliation">UC Berkeley</div>
+    <div class="affiliation">University of Pennsylvania</div>
   </div>
 
   <div class="person-card">
