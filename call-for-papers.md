@@ -2,7 +2,6 @@
 layout: page
 title: "Call for Papers"
 permalink: /call-for-papers/
-body_class: with-background
 ---
 
 <!-- # Call for Papers -->
