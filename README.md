@@ -1,28 +1,12 @@
-# 1st Reliability Quantification for LLMs Workshop @AAAI
+# jekyll-uno
 
-Welcome to the official website for the 1st Reliability Quantification for LLMs Workshop at AAAI 2026.
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
-## Workshop Information
+> :warning:
+  This theme requires ruby and rubygems installed
 
-- **Date**: January, 2026
-- **Location**: AAAI 2026, Singapore EXPO
-- **Status**: Under Review
 
-## About
+### Copyright and license
 
-This workshop focuses on developing methods and metrics for quantifying reliability in Large Language Models. Our goal is to bring together researchers and practitioners to discuss challenges and solutions in making Large Language Models more reliable and trustworthy.
+It is under [the MIT license](/LICENSE).
 
-## Website
-
-Visit our website at: https://llmrel.github.io/
-
-## Navigation
-
-- Overview
-- Organizers
-- Speakers
-- Call for Papers
-- Schedule
-- Accepted Papers
-
-Last updated: December 2024
