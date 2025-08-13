@@ -4,7 +4,6 @@ title: "Speakers"
 permalink: /speakers/
 ---
 
-(More speakers will come soon)
 
 <div class="person-grid">
   <div class="person-card">
