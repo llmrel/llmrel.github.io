@@ -66,7 +66,7 @@ Please select the appropriate track for submission.
 
 ### Important Dates:
 
-- **Submission Deadline**: October 23, 2025  (AOE, UTC-12)
+- **Submission Deadline**: October 23, 2025 
 - **Notification of Acceptance**: November 5, 2025   
 - **Camera-Ready Deadline**: December 10, 2025
 - **Workshop Date**: Monday, January 26, 2026.
