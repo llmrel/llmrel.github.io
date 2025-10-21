@@ -79,10 +79,7 @@ The workshop is organised by a core team of nine early career researchers and su
   </div>
   </div>
 
-
-<div class="section-title">PI Organizers</div>
-
-<div class="person-grid">
+  <div class="person-grid">
   <div class="person-card">
     <img src="{{ site.baseurl }}/images/organizers/francesco.jpeg" alt="Francesco Croce">
     <div class="name">
@@ -98,6 +95,11 @@ The workshop is organised by a core team of nine early career researchers and su
     </div>
     <div class="affiliation">DeepMind</div>
   </div>
+
+
+<div class="section-title">PI Organizers</div>
+
+
   
   <div class="person-card">
     <img src="{{ site.baseurl }}/images/organizers/leews.jpg" alt="Wee Sun Lee">
