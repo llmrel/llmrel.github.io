@@ -80,7 +80,7 @@ The workshop is organised by a core team of nine early career researchers and su
   </div>
 
 
-<div class="section-title">Advisors</div>
+<div class="section-title">PI Organizers</div>
 
 <div class="person-grid">
   <div class="person-card">
@@ -136,6 +136,6 @@ The workshop is organised by a core team of nine early career researchers and su
     <div class="name">
       <a href="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/">Margret Keuper</a>
     </div>
-    <div class="affiliation">University of Mannheim & MPI</div>
+    <div class="affiliation">University of Mannheim & Max-Planck-Institute for Informatics, Saarland Informatics Campus</div>
   </div>
 </div>
