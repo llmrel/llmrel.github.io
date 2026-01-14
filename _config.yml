@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Workshop specific settings
 date_text: "<span style='color: white;'>January, 2026</span>"
-date: "January, 2026"
+date: "January 26th, 2026"
 where: "<span style='color: white;'>AAAI 2026, Singapore EXPO</span>"
 location: "AAAI 2026, Singapore EXPO"
 
