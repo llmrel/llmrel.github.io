@@ -15,19 +15,19 @@ permalink: /speakers/
   </div>
 
   <div class="person-card">
-    <img src="{{ site.baseurl }}/images/organizers/WeijieSu.jpg" alt="Weijie Su">
+    <img src="{{ site.baseurl }}/images/organizers/junxian.jpg" alt="Junxian He">
     <div class="name">
-      <a href="https://www.weijie-su.com/">Weijie Su</a>
+      <a href="https://jxhe.github.io/">Junxian He</a>
     </div>
-    <div class="affiliation">University of Pennsylvania</div>
+    <div class="affiliation">HKUST</div>
   </div>
 
   <div class="person-card">
-    <img src="{{ site.baseurl }}/images/organizers/krdc.jpg" alt="Katie Driggs-Campbell">
+    <img src="{{ site.baseurl }}/images/organizers/pangwei.jpg" alt="Pang Wei Koh">
     <div class="name">
-      <a href="https://krdc.web.illinois.edu/">Katie Driggs-Campbell</a>
+      <a href="https://www.cs.washington.edu/people/faculty/pang-wei-koh/">Pang Wei Koh</a>
     </div>
-    <div class="affiliation">UIUC</div>
+    <div class="affiliation">UW</div>
     </div>
 
   <div class="person-card">
@@ -38,13 +38,7 @@ permalink: /speakers/
     <div class="affiliation">University of Tilburg</div>
     </div>
 
-  <div class="person-card">
-    <img src="{{ site.baseurl }}/images/organizers/dawn1.jpg" alt="Dawn Song">
-    <div class="name">
-      <a href="https://dawnsong.io/">Dawn Song</a>
-    </div>
-    <div class="affiliation">UC Berkeley</div>
-  </div>
+
 
 
 
