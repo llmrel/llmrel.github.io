@@ -6,7 +6,7 @@ permalink: /schedules/
 
 <!-- # Schedule -->
 
-<!-- <p>The workshop will be held on Sat 14 Dec, 8:15 a.m. PST in Ballroom B located in the West Building of the Vancouver Convention Center.</p> -->
+<p>The workshop will be held on Monday 26 Jan, Singapore EXPO.</p>
 
 
 
