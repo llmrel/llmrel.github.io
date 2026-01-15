@@ -46,7 +46,7 @@ The workshop is organised by a core team of nine early career researchers and su
     <div class="name">
       <a href="https://harit7.github.io/">Harit Vishwakarma</a>
     </div>
-    <div class="affiliation">UW Madison</div>
+    <div class="affiliation">Oxford</div>
   </div>
 
 
