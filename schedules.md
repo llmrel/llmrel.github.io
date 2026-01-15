@@ -14,26 +14,19 @@ permalink: /schedules/
 
 
 
-| Time                | Event                                         |
-| ------------------- | --------------------------------------------- |
-| 9:05 AM - 9:15 AM   | Opening Remarks                               |
-| 9:15 AM - 9:45 AM   | Invited Talk 1                                |
-| 9:45 AM - 10:15 AM  | Invited Talk 2                                |
-| 10:15 AM - 10:45 AM | Coffee Break                                  |
-| 10:45 AM - 11:15 AM | Invited Talk 3                                |
-| 11:15 AM - 11:45 AM | Invited Talk 4                                |
-| 11:45 AM - 12:15 PM | Spotlight Presentation SLOT 1                 |
-| 12:15 PM - 12:45 PM | Poster Session 1                              |
-| 12:45 PM - 1:15 PM  | Poster Session 1                              |
-| 1:15 PM - 2:15 PM   | LUNCH                                         |
-| 2:15 PM - 2:45 PM   | Invited Talk 5                                |
-| 2:45 PM - 3:15 PM   | PANEL DISCUSSION: Scaling is all you need?    |
-| 3:15 PM - 3:45 PM   | PANEL DISCUSSION                              |
-| 3:45 PM - 4:00 PM   | AWARDS                                        |
-| 4:00 PM - 4:30 PM   | COFFEE BREAK                                  |
-| 4:30 PM - 5:00 PM   | Spotlight Presentation SLOT 2                 |
-| 5:00 PM - 5:30 PM   | Poster Session 2                              |
-| 5:30 PM - 6:00 PM   | Poster Session 2                              |
+| Time (local time) | Duration (mins) | Event |
+|------------------|-----------------|-------|
+| 8:30 - 8:45 | 15 | Opening Remarks |
+| 8:45 - 9:45 | 60 | Oral Sessions (5 presentations: 10 mins each) |
+| 9:45 - 11:15 | 90 | Poster Session 1 (Posters WS68–WS79) + Coffee Break (10:30 am to 11 am) |
+| 11:15 - 12:00 | 45 | Keynote 1: Mohan Kankanhalli — Towards Trustworthy Multimodal Models |
+| 12:00 - 12:45 | 45 | Keynote 2: Junxian He |
+| 12:45 - 14:00 | 75 | Lunch |
+| 14:00 - 14:45 | 45 | Keynote 3: Pang Wei Koh |
+| 14:45 - 15:30 | 45 | Keynote 4: Bart van der Sloot |
+| 15:30 - 15:35 | 5 | **BEST PAPER AWARD ANNOUNCEMENT** |
+| 15:35 - 17:00 | 85 | Poster Session 2 (Posters WS80–WS90) + Coffee Break (3:30 pm to 4 pm) |
+|
 
 
 
