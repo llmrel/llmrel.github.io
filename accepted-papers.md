@@ -68,7 +68,9 @@ Presenter Guidelines:
 
 
 
-
+<img src="{{ site.baseurl }}/images/posterroom.jpg"
+         alt="Organizers' affiliations logos"
+         loading="lazy">
 
 
 
