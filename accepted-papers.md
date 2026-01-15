@@ -7,6 +7,9 @@ permalink: /accepted-papers/
 Posters
 ====
 
+
+
+
 | Paper ID (AAAI26_Identifier_Paper#) | Paper Title | Authors | Poster ID |
 |---|---|---|---|
 | AAAI26_W15_2 | Beyond Hallucinations: A Composite Score for Measuring Reliability in Open-Source Large Language Models | Rohit Kumar Salla, Manoj Saravanan, Shrikar Reddy Kota | WS68 |
@@ -50,6 +53,18 @@ Presenter:
 
 Presentation 5: Future Is Unevenly Distributed: Forecasting Ability Of LLMs Depends On What We’re Asking  
 Presenter:  
+
+Poster Location and Setup
+====
+All posters for Bridges and Workshops will be located on Level 2 of the Singapore EXPO (not in the Expo Halls).   
+The poster boards are double-sided and arranged in an accordion formation. Each poster board will have a number displayed on it (e.g., WS68, WS69, WS70, ...).  
+Material required to put up the poster will be provided by AAAI.  
+
+Presenter Guidelines:
+  - Use size A0 posters in portrait orientation - fastening materials will be provided
+- Display their posters on the day of their poster session - not the evening before.
+- Remove their posters at the end of the poster session to prevent loss
+- AAAI is not responsible for posters that are misplaced or stolen
 
 
 
