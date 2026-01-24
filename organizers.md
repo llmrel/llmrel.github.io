@@ -77,7 +77,9 @@ The workshop is organised by a core team of nine early career researchers and su
     </div>
     <div class="affiliation">University of Stuttgart</div>
   </div>
-  </div>
+
+  
+
   
 <div class="person-card">
     <img src="{{ site.baseurl }}/images/organizers/Iacopo.jpg" alt="Iacopo Ghinassi">
@@ -85,6 +87,7 @@ The workshop is organised by a core team of nine early career researchers and su
       <a href="https://www.linkedin.com/in/sravanti-addepalli/?originalSubdomain=in">Iacopo Ghinassi</a>
     </div>
     <div class="affiliation">NTU</div>
+  </div>
   </div>
 
   <div class="person-grid">
