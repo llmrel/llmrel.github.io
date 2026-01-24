@@ -95,6 +95,13 @@ The workshop is organised by a core team of nine early career researchers and su
     </div>
     <div class="affiliation">DeepMind</div>
   </div>
+  <div class="person-card">
+    <img src="{{ site.baseurl }}/images/organizers/Iacopo.jpg" alt="Iacopo Ghinassi">
+    <div class="name">
+      <a href="https://www.linkedin.com/in/sravanti-addepalli/?originalSubdomain=in">Iacopo Ghinassi</a>
+    </div>
+    <div class="affiliation">NTU</div>
+  </div>
 
 
 <div class="section-title">PI Organizers</div>
