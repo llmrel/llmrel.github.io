@@ -40,19 +40,19 @@ Posters
 Oral Sessions Schedule:
 ====
 Presentation 1: Task Interference in VLMs for Autonomous Driving: When Better Perception Hurts Planning  
-Presenter:  
+Presenter: Aadya Pipersenia, Honda Japan 
 
 Presentation 2: Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning  
-Presenter:
+Presenter: Svetlana Churina, National University of Singapore
 
 Presentation 3: LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval  
-Presenter:
+Presenter: Elliot Epstein, Stanford University
 
 Presentation 4: Next-Frame Prediction as a Reliability-Aware Training Paradigm for Robust Vision Encoders  
-Presenter:
+Presenter: Marcel Simon, Nota AI
 
 Presentation 5: Future Is Unevenly Distributed: Forecasting Ability Of LLMs Depends On What We’re Asking  
-Presenter:  
+Presenter: Chinmay Karkar, Lossfunk India  
 
 Poster Location and Setup
 ====
