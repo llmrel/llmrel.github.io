@@ -22,8 +22,8 @@ permalink: /schedules/
 | 11:15 - 12:00 | 45 | Keynote 1: Mohan Kankanhalli — Towards Trustworthy Multimodal Models |
 | 12:00 - 12:45 | 45 | Keynote 2: Junxian He |
 | 12:45 - 14:00 | 75 | Lunch |
-| 14:00 - 14:45 | 45 | Keynote 3: Pang Wei Koh |
-| 14:45 - 15:30 | 45 | Keynote 4: Bart van der Sloot |
+| 14:00 - 14:45 | 45 | Keynote 3: Pang Wei Koh - Finding supervision for complex tasks |
+| 14:45 - 15:30 | 45 | Keynote 4: Bart van der Sloot - Regulating the Synthetic Society: Legal Questions and Societal Changes |
 | 15:30 - 15:35 | 5 | **BEST PAPER AWARD ANNOUNCEMENT** |
 | 15:35 - 17:00 | 85 | Poster Session 2 (Posters WS80–WS90) + Coffee Break (3:30 pm to 4 pm) |
 |
