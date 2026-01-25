@@ -21,6 +21,7 @@ permalink: /speakers/
       <a href="https://jxhe.github.io/">Junxian He</a>
     </div>
     <div class="affiliation">Hong Kong University of Science and Technology</div>
+    <h3>Talk: Towards Reliable Virtual Employees in the Real World: Challenges and Opportunities</h3>
   </div>
 
   <div class="person-card">
