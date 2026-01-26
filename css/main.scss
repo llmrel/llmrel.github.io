@@ -763,3 +763,59 @@ html, body {
     font-size: 1em;
   }
 }
+
+/* =========================
+   Mobile fluid typography + overflow fix
+   ========================= */
+@media all and (max-width: 768px) {
+
+  /* 1️⃣ 使用 fluid font-size（随屏宽自动缩放） */
+  body {
+    font-size: clamp(14px, 3.5vw, 16px);
+  }
+
+  h1 {
+    font-size: clamp(1.6rem, 6vw, 2rem);
+  }
+
+  h2 {
+    font-size: clamp(1.3rem, 5vw, 1.6rem);
+  }
+
+  h3 {
+    font-size: clamp(1.1rem, 4.5vw, 1.3rem);
+  }
+
+  p,
+  li {
+    font-size: clamp(0.95rem, 3.5vw, 1.05rem);
+    line-height: 1.5;
+  }
+
+  /* 2️⃣ 强制允许所有文本换行（解决横向溢出的根因） */
+  * {
+    white-space: normal !important;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  /* 3️⃣ 收紧 home 页 padding（padding 也是横向溢出常见原因） */
+  body.home-page.with-background .post-container {
+    padding: 20px !important;
+    margin: 10px !important;
+    max-width: 100% !important;
+  }
+
+  /* 4️⃣ 导航项防止撑屏 */
+  .top-navbar-navigation,
+  .top-navbar-navigation li,
+  .top-navbar-navigation a {
+    max-width: 100%;
+  }
+
+  /* 5️⃣ 终极兜底：禁止横向滚动 */
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}
