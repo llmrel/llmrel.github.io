@@ -1,19 +1,27 @@
 <!-- 顶部导航栏（桌面端） -->
+<!-- 顶部导航栏（桌面：横排；手机：汉堡） -->
 <nav class="top-navbar">
   <div class="top-navbar-content">
     <a href="{{ site.baseurl }}/" class="logo">Home</a>
 
+    <!-- ✅ Mobile hamburger toggle (no JS) -->
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
+    <label for="nav-toggle" class="nav-toggle-label" aria-hidden="true">
+      <span class="nav-toggle-icon"></span>
+    </label>
+
     <ul class="top-navbar-navigation">
-      <li><a href="{{ site.baseurl }}/overview/">Overview</a></li>
-      <li><a href="{{ site.baseurl }}/organizers/">Organizers</a></li>
-      <li><a href="{{ site.baseurl }}/organizing_committee/">Organizing Committee</a></li>
-      <li><a href="{{ site.baseurl }}/speakers/">Speakers</a></li>
-      <li><a href="{{ site.baseurl }}/call-for-papers/">Call for Papers</a></li>
-      <li><a href="{{ site.baseurl }}/schedules/">Schedule</a></li>
-      <li><a href="{{ site.baseurl }}/accepted-papers/">Accepted Papers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/overview/">Overview</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/organizers/">Organizers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/organizing_committee/">Organizing Committee</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/speakers/">Speakers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/call-for-papers/">Call for Papers</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/schedules/">Schedule</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/accepted-papers/">Accepted Papers</a></li>
     </ul>
   </div>
 </nav>
+
 
 <!-- Header / Landing Cover -->
 <header class="panel-cover {% if site.disable_landing_page %}panel-cover--collapsed{% endif %}"
