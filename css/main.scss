@@ -20,8 +20,16 @@ pre.highlight code,
 .btn,
 .navigation__item a {
   margin: 5px 0;
-  white-space: nowrap;
+  white-space: nowrap; /* 桌面默认不换行 */
 }
+
+@media (max-width: 960px) {
+  .navigation__item a {
+    white-space: normal;   /* ✅ 手机允许换行 */
+    word-break: break-word;
+  }
+}
+
 
 .pagination__page-number {
   display: inline-block;
@@ -585,3 +593,18 @@ body.home-page .post > div:last-child {
   background-color: #333;
 }
 
+/* === Nav visibility control (final override) === */
+/* Desktop: show top nav, hide cover nav */
+.top-navbar { display: flex; }
+.navigation-wrapper { display: none; }
+
+/* Mobile: hide top nav, show cover nav */
+@media (max-width: 960px) {
+  .top-navbar { display: none !important; }
+  .navigation-wrapper { display: block !important; }
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
