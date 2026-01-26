@@ -15,6 +15,7 @@ The workshop is organised by a core team of nine early career researchers and su
       <a href="https://www.uni-mannheim.de/dws/people/researchers/phd-students/shashank/">Shashank Agnihotri</a>
     </div>
     <div class="affiliation">University of Mannheim</div>
+    <p>Acknowledges support by the DFG Research Unit - 5336 Learning to Sense (L2S)</p>
   </div>
 
   <div class="person-card">
@@ -151,5 +152,6 @@ The workshop is organised by a core team of nine early career researchers and su
       <a href="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/">Margret Keuper</a>
     </div>
     <div class="affiliation">University of Mannheim & Max-Planck-Institute for Informatics, Saarland Informatics Campus</div>
+    <p>Acknowledges support by the DFG Research Unit - 5336 Learning to Sense (L2S)</p>
   </div>
 </div>
