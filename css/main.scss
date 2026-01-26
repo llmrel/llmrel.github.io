@@ -608,3 +608,134 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;
 }
+
+/* =========================
+   Mobile Hamburger Menu (final)
+   ========================= */
+
+/* Hide the old theme mobile icon if it's still in header.html */
+.mobile.btn-mobile-menu {
+  display: none !important;
+}
+
+/* Base: checkbox hidden */
+.nav-toggle {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Hamburger button (hidden on desktop) */
+.nav-toggle-label {
+  display: none;
+  margin-left: auto;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  user-select: none;
+}
+
+/* Hamburger icon: 3 lines */
+.nav-toggle-icon,
+.nav-toggle-icon::before,
+.nav-toggle-icon::after {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: white;
+  position: relative;
+  content: "";
+}
+
+.nav-toggle-icon::before {
+  position: absolute;
+  top: -7px;
+  left: 0;
+}
+
+.nav-toggle-icon::after {
+  position: absolute;
+  top: 7px;
+  left: 0;
+}
+
+/* Mobile behavior */
+@media all and (max-width: 960px) {
+  /* Mobile: keep top bar, but make it wrap */
+  .top-navbar {
+    display: flex !important;
+    height: auto;
+    padding: 10px 12px;
+  }
+
+  .top-navbar-content {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 8px 10px;
+  }
+
+  /* Show hamburger button */
+  .nav-toggle-label {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Hide menu by default on mobile */
+  .top-navbar-navigation {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .top-navbar-navigation .nav-item {
+    width: 100%;
+  }
+
+  .top-navbar-navigation .nav-item a {
+    width: 100%;
+    padding: 10px 12px;
+    font-size: 0.95em;
+    white-space: normal; /* allow wrapping */
+  }
+
+  /* When toggled ON: show menu */
+  .nav-toggle:checked ~ .top-navbar-navigation {
+    display: flex;
+  }
+
+  /* Animate hamburger to X when open */
+  .nav-toggle:checked + .nav-toggle-label .nav-toggle-icon {
+    background: transparent;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label .nav-toggle-icon::before {
+    top: 0;
+    transform: rotate(45deg);
+  }
+
+  .nav-toggle:checked + .nav-toggle-label .nav-toggle-icon::after {
+    top: 0;
+    transform: rotate(-45deg);
+  }
+
+  /* Mobile: hide cover internal navigation to avoid duplicates */
+  .navigation-wrapper {
+    display: none !important;
+  }
+
+  /* Keep body padding so content isn't hidden behind fixed nav */
+  body {
+    padding-top: 70px;
+  }
+
+  /* Prevent horizontal scrolling */
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}
+
